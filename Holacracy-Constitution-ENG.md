@@ -1,470 +1,553 @@
-# **Holacracy Constitution**
+**החוקה ההולקרטית** 5.0
 
-## Preamble
+הקדמה
+=====
 
-The ***“Ratifiers”*** hereby adopt this ***“Constitution”*** as the formal authority structure of the specified ***“Organization”***. In so doing, the Ratifiers cede their power to govern and run the Organization into the rules and processes herein, except for any powers that the Ratifiers lack the authority to delegate. The Ratifiers or their successors may amend this Constitution or repeal it using whatever authority they relied upon to adopt it, provided that any amendments are made in writing.
+"_**המאשררים**_" מאמצים בזאת את "_**חוקה**_" זו כמבנה הסמכות הפורמלי של ה"_**ארגון**_" הנדון. בכך, המאשררים מוותרים על כוחם למשול ולנהל את ארגון לתוך הכללים והתהליכים המופיעים כאן, למעט כל הסמכויות שאינן בסמכות המאשררים להאציל. המאשררים או יורשיהם רשאים לשנות חוקה זו או לבטלה תוך שימוש בכל סמכות שהם הסתמכו עליה כדי לאמץ אותה, בתנאי שכל התיקונים יעשו בכתיבה. כל מדיניות ומערכות קיימות שהיו לארגון בתוקף לפני אימוץ החוקה ממשיכה בתוקף מלא לאחר אימוצה, אולם אין להרחיב או לשנות אותן אלא על ידי הרשויות והתהליכים המוגדרים כאן. מדיניות או מערכות קודמות, יאבדו כל משקל וסמכות ברגע שתהליכים של חוקה זו יצרו משהו שמחליף או סותר אותם.
 
-Any existing policies and systems the Organization had in effect before adopting this Constitution continue in full force after adoption, however they may not be expanded upon or modified except by the authorities and processes defined herein. These legacy policies and systems further lose all weight and authority as soon as this Constitution's processes create something that replaces or contradicts them.
+הארגון רשאי לייעד "שותפים" נוספים בנוסף למאשררים שיסייעו לו בממשל ותפעול, בתנאי שכל השותפים הללו הסכימו גם הם לציית לכל הרלוונטי בתנאי חוקה זו. במסגרת מגבלה זו, הארגון רשאי להגדיר כיצד הוא מעניק או
 
-The Organization may designate other ***“Partners”*** in addition to the Ratifiers to assist with its governance and operations, provided any such Partners have also agreed to abide by all relevant terms of this Constitution. Within that constraint, the Organization may define how it grants or removes Partner status, unless otherwise specified by the Ratifiers, and the Ratifiers may specify the initial Partners for the Organization.
+מסיר את סטטוס "השותף", אלא אם צוין אחרת על ידי המאשררים, והמאשררים רשאים לציין את השותפים הראשוניים של הארגון.
 
-Each Partner may rely upon the authorities granted by this Constitution to the full extent that the Ratifiers held such authorities before adopting it. All of the responsibilities and constraints on a Partner come from this Constitution and the outputs of its processes, and from any legal duties the Partner has to the Organization and while acting on its behalf. No implicit expectations or constraints have any power over a Partner, and nor do any dictates issued outside the authority granted by this Constitution.
+כל שותף רשאי להסתמך על הסמכויות המוענקות על ידי חוקה זו במידה מלאה שהמאשררים החזיקו בסמכויות אלו לפני אימוץ החוקה. כל האחריות והאילוצים על השותפים מגיעים מחוקה זו ומתוצרי התהליכים שלה, ומכל חובות משפטיות שלשותף יש כלפי הארגון בזמן שפועל בשמו. לציפיות או 
 
+אילוצים מרומזים אין כל סמכות שהיא על השותף, וגם לא לתכתיבים שמקורם מחוץ לסמכות המוענקת על ידי חוקה זו.
 
-## Article 1: Organizational Structure
+מאמר 1: המבנה הארגוני
+=====================
 
-### 1.1 Role Definition
+1.1. הגדרת תפקיד 
+-----------------
 
-A ***“Role”*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+"_**תפקיד**_" הוא יחידה ארגונית שמישהו אחראי למלא ולהפיח בה רוח חיים בשם הארגון. מי שממלא תפקיד הוא "**מוביל/ת התפקיד**" לתפקיד זה. תפקיד מורכב משם תיאורי ואחד או יותר מהבאים:
 
-A Role definition consists of a descriptive name and one or more of the following:
+1.  "**י**_**יעוד**_" - שהוא המטרה, הפוטנציאל או היכולת שהתפקיד ממונה למלא.
+    
+2.  אחד או יותר מ "_**תחומי אחריות**_" - תחומים או נכסים ספציפיים שהתפקיד אחראי עליהם, ומנהל אותם כנכס של תפקיד, באופן בלעדי, למען מימוש הייעוד.
+    
+3.   אחת או יותר "_**מחויבויות שוטפות**_", הן הפעילויות, הפעולות היומיומיות השוטפות שהתפקיד ינהל או יבצע על מנת לשרת את ייעודו או בשירות תפקידים אחרים.
+    
 
-- **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
-- **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its Purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+לתפקיד יכולות להיות גם "_**מדיניות**_", שהיא זכויות מיוחדות או מגבלות מיוחדות של הסמכות או תקנות מיוחדות שקשורות לתפעול בתפקיד.
 
-A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply within that Role.
+1.2 אחריות בעת מילוי תפקיד
+--------------------------
 
-### 1.2 Responsibilities of Role Leads
+בעת מילוי תפקיד, חלות עליך המחויבויות הבאות:
 
-As a Role Lead, you have the following responsibilities:
+### 1.2.1 עיבוד מתחים
 
-#### 1.2.1 Processing Tensions
+את/ה אחראי/ת להשוות בין הביטוי הממשי (_הנצפה - ע.ב_.) של התפקיד אותו אתה ממלא, לבין החזון של הייעוד הפוטנציאלי, לזהות פערים ביניהם (כל פער הוא "מתח"). באחריותך לנסות לפתור מתחים אלו.
 
-You are responsible for comparing the actual expression of your Role’s Purpose and Accountabilities to your vision of their ideal potential, to identify gaps between the two (each gap is a ***“Tension”***). You are then responsible for trying to enact your vision by taking steps to reduce or resolve those Tensions.
+### 1.2.2 עיבוד ייעוד ומחויבויות 
 
-#### 1.2.2 Processing Purpose & Accountabilities
+את/ה אחראי/ת לבדוק באופן תדיר כיצד לממש את היעוד והמחויבות של התפקיד שלך, ע"י הגדרת:
 
-You are responsible for regularly considering how to enact your Role's Purpose and each Accountability, by defining:
+*   "_**הצעדים הבאים**_", שהן פעולות מועילות שתוכל/י לעשות מיידית, כל עוד אין עדיפויות מתחרות; ו - 
+    
+*   "_**פרוייקטים**_", שהם תוצאות ספציפיות ששווה יהיה לעבוד למענם, לפחות במקרה שאין עדיפויות מתחרות.  
+    
 
-- **(a)** ***“Next-Actions”***, which are useful actions that you could take immediately, at least in the absence of competing priorities; and
-- **(b)** ***“Projects”***, which are specific outcomes that would be useful to work towards, at least in the absence of competing priorities.
+### 1.2.3 הפרדת פרוייקטים למרכיבים
 
-#### 1.2.3 Breaking Down Projects
+את/ה אחראי/ת להגדיר באופן תדיר את הפעולות הבאות, בעבור כל פרויקט של תפקיד אקטיבי שלך.
 
-You are responsible for regularly defining Next-Actions for each of your Role's active Projects.
+### 1.2.4 מעקב אחר פרויקטים, הצעדים הבאים ומתחים
 
-#### 1.2.4 Tracking Projects, Next-Actions, & Tensions
+את/ה אחראי/ת על התיעוד והמעקב של כל הפרויקטים והצעדים הבאים של התפקיד שלך ברשימות כתובות. חובה עליך גם לעקוב אחר מתחים שאותם את/ה מתכוון לפתור, לפחות עד שתעבד/י אותם לכדי פרויקט או הצעד הבא. כמו כן, הנך אחראי/ת על מעבר ועדכון שוטף של רשימות אלו, על מנת לתחזק אותן כמקור מהימן של הפוטנציאל של התפקיד. 
 
-You are responsible for capturing and tracking all Projects and Next-Actions for your Role in written lists. You must also track Tensions you intend to resolve, at least until you process them into Projects or Next-Actions. You are also responsible for regularly reviewing and updating these lists, to maintain them as a trusted source of the Role’s potential work.
+### 1.2.5 הוצאה לפועל של הצעדים הבאים
 
-#### 1.2.5 Executing Next-Actions
+בכל רגע שיש לך זמן פנוי לפעול במסגרת תפקיד, את/ה אחראי על הצעדים הבאים שתוכל לנקוט, וביצוע כל מה שיוסיף ערך לארגון.
 
-Whenever you have time available to act in a Role, you are responsible for considering the Next-Actions you could take, and executing whichever would add the most value to the Organization.
+1.3 מעגלים
+----------
 
-### 1.3 Circles
+"מעגל" הוא מיכל לארגון תפקידים ומדיניות סביב ייעוד משותף. התפקידים והמדיניות במעגל מסוים מגדירים את _**המשילות בפועל**_ של המעגל. 
 
-A ***“Circle”*** is a container for organizing Roles and Policies around a common Purpose. The Roles and Policies within a Circle make up its acting ***“Governance”***.
+### 1.3.1. פירוק תפקידים למרכיבים
 
-#### 1.3.1 Breaking Down Roles
+כל תפקיד הוא גם מעגל פנימי. המעגל הפנימי של תפקיד יכול להעמיד תפקידים ומדיניות על מנת לפרק תפקיד למרכיבים ולארגן את העבודה של התפקיד. דבר זה אינו תקף ביחס לתפקידים המוגדרים בנספח א', אשר לא ניתן לפרקם למרכיבים קטנים יותר.
 
-The inside of every Role is a Circle. This Circle can hold its own Roles and Policies to break down and organize its work. This does not apply to the Roles defined in this Constitution, which may not be further broken down.
+המעגל הפנימי של כל תפקיד נחשב "**תת המעגל**" של המעגל הגדול יותר, אשר אליו משתייך התפקיד - הוא "**מעגל העל**".
 
-A Role's internal Circle is considered a ***“Sub-Circle”*** of the broader Circle that holds the Role, while that broader Circle is its ***“Super-Circle”***.
+### 1.3.2 האצלת תחומים
 
-#### 1.3.2 Delegating Domains
+כאשר מעגל מאציל תחום לאחד מתפקידיו, כל מוביל תפקיד לתפקיד זה יכול לנהל את התחום בשם המעגל. מעגל יכול להאציל תחום לתפקידיו מתוך תחומי האחריות של המעגל עצמו, או תחומים שרלוונטיים לתהליכים הפנימיים של אותו המעגל.
 
-When a Circle grants a Domain to one of its Roles, any Role Lead for that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall within the Circle's own Domains, or that are only relevant within its own internal processes.
+ברגע שתפקיד מנהל תחום, הוא יכול לקבוע מדיניות לניהול התחום הזה תחת המשילות שלו. אולם, המעגל אשר האציל את הסמכות על התחום, שומר על הזכות לקבוע מדיניות לגבי התחום גם כן. במקרה כזה, מדיניות המעגל עדיפה על פני מדיניות שהוגדרה ע"י התפקיד, אם מתקיים קונפליקט ביניהן.  
 
-Once a Role controls a Domain, it may create Policies governing that Domain within its own Governance. However, the Circle that delegated the Domain retains the right to define its own Policies governing that Domain as well. Any such Policies supersede those defined by the Role in the event of a conflict.
+האצלת תחום לתפקיד לא מעבירה זכויות שיש למעגל ביחס להוצאת כספים או נכסים, אלא אם כן הוגדר מפורשות.
 
-Granting a Domain to a Role does not delegate any rights the Circle has to control spending of money or assets, unless explicitly specified.
+### 1.3.3 מעגל העוגן
 
-#### 1.3.3 Anchor Circle
+המעגל הרחב ביותר שמחזיק את הייעוד של כלל הארגון הוא "**מעגל העוגן**". מעגל העוגן מחזיק את כל הסמכויות והתחומים שהארגון עצמו מנהל ואין לו "מעגל-על" או מחויבויות. מעגל העוגן יכול לשנות את ייעודו באמצעות מדיניות.
 
-The broadest Circle that holds the Purpose of the whole Organization is its ***“Anchor Circle”***. The Anchor Circle holds all authorities and Domains that the Organization itself controls, and has no Super-Circle. The Anchor Circle may change its own Purpose or clarify its own Accountabilities via a Policy.
+"**המאשררים**" יכולים לקבוע מבנה ראשוני ומרכיבי משילות נוספים בתוך מעגל העוגן בזמן אימוץ חוקה זו.
 
-The Ratifiers may define an initial structure and other Governance within the Anchor Circle upon adopting this Constitution.
+### 1.3.4 חיבור אל מעגלים
 
-#### 1.3.4 Linking Into Circles
+תפקיד יכול להתחבר למעגל אם המדיניות של המעגל הזה או של כל מעגל-על מזמינה אותו.
 
-A Role may link into another Circle if a Policy of that other Circle or any Super-Circle thereof invites it.
+ברגע שתפקיד מחובר למעגל הוא נחשב חלק מהמשילות של אותו מעגל. המעגל יכול להוסיף לתפקיד ומאוחר יותר לשנות את מה שהוסף. אולם, המעגל לא יכול למחוק את התפקיד, או את מה שהוסף לתפקיד ע"י מעגל אחר, וכמו כן - מעגל אחר לא יכול לשנות או למחוק את מה שהוסף על ידו. הסמכות להוסיף או לשנות משימות בתוך תפקיד נשארת אצל מעגל המקור של התפקיד. מעגל שתפקיד מחובר אליו לא נחשב מעגל-העל של התפקיד, וכמו כן המעגל הפנימי של התפקיד לא נחשב תת-המעגל של המעגל המחובר.
 
-Once linked into another Circle, a Role is considered part of the Governance of that other Circle. That Circle may add to the Role and later change what it adds. However, it may not delete the Role nor change anything added by another Circle, and another Circle may not change or remove anything it adds. The authority to add or change assignments into the Role stays with its source Circle. The Circle a Role links into is not considered its Super-Circle, and nor is the Role's inner Circle considered its Sub-Circle.
+מעגל יכול לנתק עצמו מתפקיד ע"י כך שימחק את המדיניות שמזמינה את התפקיד להתחבר או ע"י כל מנגנון אחר במדיניות הזו. תפקיד גם יכול לבחור לנתק עצמו ממעגל שאליו הוא מחובר, אלא אם כן - מדיניות במעגל-העל של התפקיד או הנחיה של מעגל העל של התפקיד אומרת אחרת.
 
-A Circle may unlink a Role by removing the Policy that invited it to link, or by another mechanism defined in that Policy. A Role may also opt to remove itself from a Circle it linked into, unless a Policy within or acting upon the Role's source Circle says otherwise. Once unlinked from a Circle, any Governance added to the Role by that Circle is automatically removed.
+ברגע שתפקיד מתנתק ממעגל כל מדיניות שנוספה לו ע"י מעגל זה נמחקת מיידית.
 
-#### 1.3.5 Facilitator & Secretary Roles
+### 1.3.5 תפקיד המזכיר והמנחה
 
-Any Circle may appoint someone as the Circle's ***"Facilitator"***. The selected Facilitator fills a ***“Facilitator Role”*** in the Circle, with a Purpose of "Circle governance and operational practices aligned with the Constitution".
+### כל מעגל יכול למנות מישהו מהמעגל להיות מנחה המעגל. המנחה שנבחר ממלא **את** "_**תפקיד המנחה**_" במעגל, לשם מימוש הייעוד "משילות המעגל ומנהגי התפעול ההולמים חוקה זו".
 
-Any Circle may appoint someone as the Circle's ***"Secretary"***. The selected Secretary fills a ***“Secretary Role”*** in the Circle, with a Purpose of "Stabilize the Circle’s constitutionally-required records and meetings".
+### כל מעגל יכול למנות מישהו כ"_**מזכיר/ת המעגל**_". המזכיר שנבחר ממלא את "תפקיד המזכיר", לשם מימוש הייעוד "ייצוב התיעוד והפגישות של המעגל, כפי שנדרש בחוקה זו."מעגל יכול להוסיף תחומי אחריות או מחויבויות לתפקידי המנחה או המזכיר/ה שלו, וכמו כן לגרוע אותם.שום מעגל לא יכול לשנות את הייעוד של תפקידים אלו ו/או תחומים ומחויבויות אשר מוחלות על התפקיד על פי חוקה זו. 1.4 מובילי מעגלים
 
-A Circle may add Accountabilities or Domains to its own Facilitator or Secretary Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of either Role, nor any Accountabilities or Domains placed on those Roles by this Constitution.
+שירות כ "מוביל/ת התפקיד" משמעותו גם שירות כ "מוביל/ת המעגל" בעבור המעגל הפנימי של אותו התפקיד, ולכן משמעותו איוש "תפקיד מוביל המעגל" הפנימי. תפקיד "מוביל המעגל" אחראי על הייעוד של התפקיד הרחב ההוא וכל המחויבויות השוטפות על התפקיד, כל עוד הן לא מאוישות על ידי תפקידים או תהליכים בתוך המעגל. 
 
-### 1.4 Circle Leads
+1.4.1 איוש תפקידים
+------------------
 
-Serving as a Role Lead also means serving as a ***“Circle Lead”*** within that Role's internal Circle, and thus filling the ***“Circle Lead Role”*** within. The Circle Lead Role holds the overall Purpose of that broader Role, and all Accountabilities on that Role to the extent they are not covered by other Roles or processes within the Circle.
+מוביל/ת המעגל אחראי על המשימות של תפקידי המעגל ויכול לשבץ לתפקידים חברים מתוך המעגל שמעוניינים בכך, כולל מספר אנשים בו זמנית. כל מי ששובץ יכול מאוחר יותר להתפטר ממילוי התפקיד, אלא אם כן הוסכם אחרת. מוביל המעגל יכול גם לגרוע משימות מתפקיד במעגל בכל רגע נתון.מוביל מעגל עשוי למקד עוד יותר הקצאת תפקיד להקשר ספציפי. כדי לעשות זאת, כל הגדרת התפקיד חייבת להיות רלוונטית עדיין להקשר זה. כאשר נעשה שימוש במיקוד, כל משימת מיקוד מתנהגת כמו תפקיד נפרד. הייעוד, התחומים והאחריות עדיין רלוונטיים ליישום, אך ורק במוקד המשימה.
 
-The Anchor Circle has no Circle Leads, unless a Policy of the Circle says otherwise.
+אף אחד מלבד מוביל/ת מעגל אינו רשאי להקצות תפקיד או לבטל הקצאת תפקיד בתוך המעגל, אלא אם המעגל האציל את השליטה בהקצאות התפקידים לתפקיד או לתהליך אחר. מדיניות עלול להגביל עוד יותר הקצאת תפקידים או הסרות.
 
-#### 1.4.1 Assigning Roles
+### 1.4.2 איוש תפקידים שאינם מאוישים
 
-A Circle Lead controls the Circle's Role assignments and may assign any Role within the Circle to anyone willing to fill it, including to multiple people at the same time. Anyone so assigned may later resign from filling the Role, unless they’ve agreed otherwise. A Circle Lead may also revoke an assignment to any Role within the Circle at any time.
+במקרה שתפקיד איננו מאויש, מי שאחראי על איוש התפקיד נחשב אוטומטית למוביל התפקיד של התפקיד שאיננו מאויש כרגע.
 
-A Circle Lead may further focus a Role assignment on only a specific context. To do so, the entire Role definition must still be relevant within that context. When a focus is used, each assignment focus behaves like a separate Role. The Role's Purpose, Domains, and Accountabilities all still apply, but only within the focus of the assignment.
+במקרה שתפקיד מאויש רק על ידי אנשים שאינם שותפי הארגון אז כל מוביל מעגל נחשב אוטומטית למוביל התפקיד הזה גם כן. אולם, האיוש האוטומטי הזה תקף רק במקרה שמי שמאייש כרגע את התפקיד לא ממלא חובות ואחריות רלוונטיים ששותף היה ממלא.
 
-No one other than a Circle Lead may assign a Role or revoke a Role assignment within the Circle, unless the Circle has delegated control of Role assignments to a different Role or process. A Policy may further constrain Role assignments or removals.
+1.4.3 יצירת תעדוף ואסטרטגיות
 
-#### 1.4.2 Covering Unfilled Roles
+מוביל/ת מעגל עשוי/ה להחליט בין הערך היחסי של מאמצי המעגל, על מנת לפתור מתחים בתעדוף של מאמצי תפקידים במעגל.
 
-Whenever a Role in a Circle is unfilled, each Circle Lead is automatically considered a Role Lead of the unfilled Role.
+מוביל/ת מעגל יכול/ה לקבוע את "האסטרטגיה" למעגל, או מספר אסטרטגיות, שמגדירות את ההיגיון/הדרך לתעדוף במעגל.
 
-When a Role is filled only by people who are not Partners of the Organization, then each Circle Lead is automatically considered a Role Lead of that Role as well. However, this default assignment only applies to the extent that the non-Partners are not actively fulfilling relevant responsibilities and duties that a Partner would hold.
+1.4.4 ניתוב הפניות חיצוניות
 
-#### 1.4.3 Defining Priorities & Strategies
+כאשר משילות מחוץ למעגל מתייחסת למעגל עצמו או לתפקיד בתוך המעגל, מוביל/ת מעגל יכול/ה לעדכן את ההפניה להתייחס לתפקיד אחר בתוך המעגל. ההבהרה הזו לא נחשבת שינוי במשילות של המעגל.1.4.5 שינוי תפקיד מוביל המעגל
 
-A Circle Lead may judge the relative value of potential Circle efforts to resolve priority conflicts across Roles. A Circle Lead may also define a ***“Strategy”*** for the Circle, or many Strategies, which are heuristics that guide prioritization in the Circle.
+מעגל אינו יכול לשנות את הייעוד של תפקיד מוביל/ת המעגל או להסירו מהמעגל. מעגל יכול להוסיף תחומים או מחוייבויות לתפקיד מוביל/ת המעגל, ובעתיד גם להסיר אותם. אולם, כל תוספת חלה אוטומטית על כל מוביל/ת של תת-מעגל בהתאמה. מעגל לא יכול להוסיף מחויבויות או תחומי אחריות רק לתפקיד מוביל/ת המעגל שלו.מעגל יכול להסיר מחויבויות, תחומים, אחריות או פונקציות מתפקיד מוביל המעגל שלו. הוא יכול לעשות זאת על ידי כך שיעבור אותם לתפקיד אחר במעגל או על ידי הגדרת דרך אחרת להפעלתם.מעשה זה אוטומטית מסיר את הסמכות או המרכיב הרלוונטי מתפקיד מוביל המעגל של המעגל, כל עוד האצלה נשארת תקפה.1.4.6. יצירת מעגלים חוצי תפקידים
 
-#### 1.4.4 Routing External References
+2 או יותר תפקידים יכולים ליצור מעגל חדש בכל זמן על מנת למשול ביעוד משותף בין התפקידים. על מנת לעשות זאת, על התפקידים המייסדים להסכים על יעוד משותף למעגל החדש, שהמעגל יכול אח"כ לשנות באמצעות מדיניות. 
 
-Whenever Governance outside the Circle references the Circle itself or any Role in the Circle, a Circle Lead may update that reference to instead refer to another Role in the Circle. This clarification is not considered a change to that Circle's Governance.
+המעגל החדש מתחיל עם התפקידים המייסדים מחוברים אליו ומדיניות שמזמינה את התפקידים אליו. למעגל שנוצר בדרך זו אין מעגל-על, או מחויבויות, או תחומים ונכסים אותם הוא מנהל, אלא אם כן מדיניות של מעגל אחר מקצה סמכות על מחויבות או תחום משלה לטובת המעגל.
 
-#### 1.4.5 Amending the Circle Lead Role
+מעגל שכזה מתפרק מייד אם אין לו תפקידים שמחוברים אליו ברגע מסוים.
 
-A Circle may not modify the Purpose of its Circle Lead Role, nor remove the Role.
+מאמר 2: כללי שיתוף פעולה
+========================
 
-A Circle may add Accountabilities or Domains to the Circle Lead Role, and later remove these additions. However, any additions automatically apply to every Sub-Circle's Circle Lead Role as well, recursively. A Circle may not add Accountabilities or Domains just to its own Circle Lead Role, or any only relevant within that Circle.
+2.1 חובת השקיפות
+----------------
 
-A Circle may remove any Accountabilities, Domains, authorities, or functions of its own Circle Lead Role. It can do this either by placing them on another Role in the Circle, or by defining an alternate means of enacting them. Doing this automatically removes the relevant authority or element from the Circle's Circle Lead Role, for as long as the delegation remains in place.
+כשותפ/ה, חלה עליך החובה לספק שקיפות למובילי תפקידים בארגון לפי בקשתם, כדלקמן:
 
+1.  **פרויקטים ופעולות הבאות:** עליך לשתף את כל הפרויקטים והפעולות הבאות שאתה עוקב אחריהם עבור הארגון.
+    
+2.  **תעדוף יחסי:** עליך לחלוק את שיקול הדעת שלך לגבי העדיפות היחסית של כל אחד מהפרויקטים או הפעולות הבאות שלך, לעומת כל דבר אחר שמתחרה על תשומת לבך.
+    
+3.  **צפי עתידי:** עליך לספק תחזית של מתי את/ה מצפה להשלים כל אחד מהפרויקטים או הפעולות הבאות שלך. די בהערכה גסה, בהתחשב בהקשר הנוכחי ובסדרי העדיפויות שלך. אין צורך בניתוח או תכנון מפורט, תחזית זו אינה התחייבות בשום צורה. אלא אם המשילות אומרת אחרת, אין לך חובה לעקוב אחר התחזית או לבצע מעקב עם הנמען אם זה משתנה.
+    
+4.  **רשימת משימות קבועה:** עליך לאמת את השלמת כל הפעולות החוזרות שאתה מבצע עבור התפקידים שלך או כשותף של הארגון. אם תתבקש, עליך להמשיך לשתף את הם הללו באופן קבוע, עד שאתה מאמין שהם אינם מועילים יותר.
+    
+5.  **מדדים:** עליך לשתף את כל המדדים שאתה אוסף בתפקידים שלך או כשותף של הארגון. אם תתבקש, עליך להמשיך לשתף מדדים אלה באופן קבוע, עד שתקבע שהם אינם שימושיים יותר.
+    
+6.  **עדכוני התקדמות:** עליך לשתף סיכום של ההתקדמות שעשית בתפקידים שלך או לקראת כל אחד מהפרויקטים שלך מאז העדכון האחרון ששיתפת. אם תתבקש, עליך להמשיך ולשתף עדכונים אלה באופן קבוע, עד שתקבע שהם אינם מועילים יותר.
+    
+7.  **מידע אחר:** עליך לשתף כל מידע אחר שזמין לך בקלות ולא יגרום נזק לשיתוף.
+    
 
-## Article 2: Rules of Cooperation
+2.2 חובת העיבוד
 
-### 2.1 Duty of Transparency
+כשותפ/ה, חלה עליך לעבד במהירות הודעות ובקשות ממובילי תפקידים, כדלקמן:
 
-As a Partner, you have the duty to provide transparency to Role Leads in the Organization upon their request, as follows:
+1.  **בקשות להבהרה:** אחרים עשויים לבקש ממך להבהיר את הצעדים הבאים לכל אחד מהפרויקטים שלך או לכל מחויבות של התפקיד שאתה ממלא. אתה לאחר מכן מחויב לקבוע ולתקשר את הפעולה הבאה להניע זאת קדימה, אם יש כאלו שתוכל לבצע. אם אין כזו, עליך לשתף למה אתה מחכה על מנת שתוכל לבצע את _הפעולה הבאה_.
+    
+2.  **בקשות לפרוייקטים או הפעולות הבאות:** אחרים יכולים לבקש ממך לבצע פעולה ספציפית או פרויקט מתוך תפקידך. עליך לקבל ולתעד אותה אם אתה מאמין שמהלך זה הגיוני/רלוונטי למילוי התפקיד, לפחות בהיעדר תעדוף מתחרה. אם אתה לא מקבל, עליך לתקשר את ההגיון שבכך או להציע במקום פתרון אחר שיתן מענה למטרה של המבקש.
+    
+3.  **בקשות להשפיע על הנכסים:** אחרים עשויים לבקש להשפיע על נכסים שנמצאים באחריות תפקידך. עליך לאשר את ההשפעה אם אתה לא רואה סיבה שזה ישפיע על היכולת שלך לבצע את ייעוד התפקיד או המחויבויות. אם אתה רואה סיבה כזו, עליך להסביר זאת למבקש.   
+    
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for the Organization.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any of your Projects or Next-Actions vs. anything else competing for your attention.
-- **(c) Projections:** You must provide a projection of when you expect to complete any of your Projects or Next-Actions. A rough estimate is enough, considering your current context and priorities. Detailed analysis or planning is not required, and this projection is not a commitment in any way. Unless Governance says otherwise, you have no duty to track the projection or follow-up with the recipient if it changes.
-- **(d) Checklist Items:** You must verify completion of any recurring actions that you perform for your Roles or as a Partner of the Organization. If requested, you must continue to share these verifications regularly, until you believe they are no longer useful.
-- **(e) Metrics:** You must share any metrics you collect in your Roles or as a Partner of the Organization. If requested, you must continue to share these metrics regularly, until you determine they are no longer useful.
-- **(f) Progress Updates:** You must share a summary of progress you've made in your Roles or towards any of your Projects since the last update you shared. If requested, you must continue to share these updates regularly, until you determine they are no longer useful.
-- **(g) Other Information:** You must share any other information that's readily available to you and won't cause harm to share.
+2.3 חובת התעדוףכשותף, חלה עליך החובה לתעדף את תשומת הלב שלך בהתאם ל:
+--------------------------------------------------------------------
 
-### 2.2 Duty of Processing
+1.  **עיבוד:** באופן כללי, עליך לתעדף הודעות שמתקבלות לתפקידיך ממובילי תפקידים אחרים על פני ביצוע "הפעולות הבאות" שלך. אולם, אתה יכול לדחות את המענה עד שתוכל לענות במרוכז לכלל ההודעות בזמן נוח יותר, כל עוד שזמן העיבוד שלך יחסית מהיר.עיבוד משמעותו שימוש בכל החובות שכתובות במאמר זה ושיתוף כיצד עיבדת את הבקשה, אם הנך מתבקש. עיבוד לא כולל הוצאה לפועל כל הפעולות הבאות או של פרויקטים שאתה אוסף.
+    
+2.  **פגישות:** עליך לתעדף השתתפות בכל הפגישות המתוארות בחוקה זו על פני ביצוע של כל הפעולות הבאות שלך, אולם אך ורק כאשר שותף מבקש זאת ספציפית ממך לפגישה מסויימת. אתה עדיין יכול לדחות את בקשה אם יש לך תכניות אחרות קבועות לזמן זה.
+    
+3.  **תעדופי מעגל**: כאשר אתה בוחר על מה לעבוד מתוך תפקיד, עליך לשקול כל אסטרטגיה רשמית או תעדוף יחסי לתפקיד זה, של כל מעגל האחראי על תפקיד זה ושל כל מעגל-על רלוונטי. לאחר מכן, עליך לנהוג בתעדופים אלו כיותר חשובים מהתעדופים האישיים שלך או משיקול דעתך האישי ביחס לתעדופים של הארגון. תעדופים רשמיים של מעגל הם אלה שמוגדרים רשמית על ידי מוביל מעגל, או על ידי תפקיד או תהליך אשר להם הסמכות קונפליקטים בתעדוף ולהגדיר אסטרטגיות למעגל.  
+    
+4.  **מועד אחרון לביצוע**: אם המשילות או כל אסטרטגיה רשמית או תעדוף של מעגל מכיל בתוכו מועד אחרון המגדיר מתי משהו חייב להתבצע - אין לראות בכך חובה להספיק את המועד האחרון הנ"ל, ללא קשר להשפעה שאולי תהיה לזה.  במקום זאת, עליך להתייחס לכך כתעדוף רשמי לכל פעולה שאולי נדרשת על מנת להשיג את המועד האחרון, על פני כל תעדוף אחר למעגל ולפעול בהתאם.מוביל מעגל או תפקיד או תהליך אחר עם הסמכות לפתור קונפליקטים בתעדוף בין תפקידים עשוי להכריע כנגד תעדוף זה.2.4 הסכמי יחסים
+    
 
-As a Partner, you have the duty to promptly process messages and requests from Role Leads in the Organization, as follows:
+כשותפ/ה יכולים להיות לך "הסכמי יחסים" עם שותפים אחרים. אלו הם הסכמים לגבי האופן שבו תנהגו אחד עם השני בזמן העבודה בארגון, או לגבי האופן שבו תמלאו את התפקוד הכללי שלכם כשותפים של הארגון. הסכמים אלו רשאים להוסיף או להבהיר את החובות בחלק זה של החוקה, אך אסור להם להתנגש עם ההסכם הכולל של החוקה.
 
-- **(a) Requests to Clarify:** Others may ask you to clarify the next steps for any of your Projects or for any Accountability of your Roles. You must then determine and communicate a Next-Action to move it forward, if there are any you could take. If there are not, you must instead share what you’re waiting for before you can take a Next-Action.
-- **(b) Requests for Projects & Next-Actions:** Others may ask you to take on a specific Next-Action or Project. You must accept and track it if you believe it would make sense to work towards in one of your Roles or as a Partner of the Organization, at least in the absence of competing priorities. If you don't, then you must either explain your reasoning, or suggest something else you believe will meet the requester’s goal instead.
-- **(c) Requests to Impact Domain:** Others may ask to impact a Domain controlled by one of your Roles. You must allow the impact if you see no reason it will reduce your capacity to enact your Role's Purpose or Accountabilities. If you do see such a reason, you must explain it to the requester.
+הסכמי יחסים חייבים להישאר ממוקדים בעיצוב התנהגויות שבדרך כלל עומדות בבסיס העבודה; הם לא אמורים להגדיר ציפיות מהעבודה שיש לעשות בתפקיד, וגם לא ציפיות לגבי האופן שבו שותף יתעדף בתפקידים שונים. יתרה מכך, הם רשאים לציין רק מעשים קונקרטיים שיש לעשות או אילוצים התנהגותיים שיש לכבד; הם אינם יכולים לכלול הבטחות להשגת תוצאות ספציפיות או למימוש איכויות מופשטות.
 
-### 2.3 Duty of Prioritization
+כשותפ/ה, אתה יכול לבקש הסכם יחסים עם שותף אחר עבור ההעדפות האישיות שלך או לשרת תפקיד שאתה ממלא. אותו שותף רשאי לקבל או לדחות את הסכם היחסים המבוקש בהתבסס על העדפותיו האישיות. אלא אם כן הוסכם אחרת, כל אחד מהצדדים רשאי לסיים מאוחר יותר את הסכם היחסים על ידי הודעה לצד השני.
 
-As a Partner, you have a duty to prioritize your attention in alignment with the following:
+כשותפ/ה, חלה עליך החובה להתאים את התנהגותך לכל הסכם יחסים כתוב שעשית. כל מי שמנחה פגישה או תהליך עבור הארגון רשאי גם לאכוף הסכמי יחסים אלה במהלך הפגישה או התהליך, כל עוד הם אינם מתנגשים עם שום דבר שהוגדר בחוקה זו.
 
-- **(a) Processing:** You must generally prioritize processing inbound messages to your Roles from other Role Leads over executing your own Next-Actions. However, you may delay processing messages until you can batch process at a convenient time, as long as your processing is still prompt. Processing includes engaging in any duties in this Article, and then sharing how you processed the message upon request. Processing does not include executing upon any Next-Actions or Projects you capture.
-- **(b) Meetings:** You must prioritize attending any meeting defined in this Constitution over executing your own Next-Actions, but only when another Partner explicitly requests this prioritization for a specific meeting. You may still decline the request if you already have plans scheduled over the meeting time.
-- **(c) Circle Priorities:** When choosing what to work on in a Role, you must consider any official Strategies or relative prioritizations of that Role, of any Circle holding that Role, and of any Super-Circle thereof. You must then treat these official priorities as more important to the Organization than your own individual priorities or your own judgment of the Organization's priorities. Official priorities of a Circle are those defined by a Circle Lead, or by any other Roles or processes with the authority to resolve priority conflicts and define Strategies for that Circle.
-- **(d) Deadlines:** If the Governance or any official Strategy or prioritization of a Circle includes a deadline specifying when something must be done by, no one may interpret that as a mandate to meet that deadline regardless of the impact of doing so. Instead, you must interpret that as an official prioritization of any actions needed to hit that deadline over any other actions for that Circle, and act accordingly. A Circle Lead or another Role or process with the authority to resolve priority conflicts across Roles may overrule this prioritization.
+ מאמר 3: ישיבות טקטיות
 
-### 2.4 Relational Agreements
+כל שותפ/ה יכול/ה לזמן ישיבה טקטית, לעזור לשותפים לעבוד ביחד על המשימות והחובות שלהם. בנוסף, המזכיר של כל מעגל אחראי לקבוע את הישיבות הטקטיות של המעגל.
 
-As a Partner, you may have ***“Relational Agreements”*** with other Partners. These are agreements about how you will relate together while working in the Organization, or about how you will fulfill your general functions as Partners of the Organization. They may add to or clarify the duties in this Article, but they may not conflict with them.
+3.1 נוכחות
+----------
 
-Relational Agreements must remain focused on shaping behaviors that generally underpin work; they may not set expectations of work to do in a Role, nor expectations about how a Partner will prioritize across different Roles. Further, they may only specify concrete acts to do or behavioral constraints to honor; they may not include promises to achieve specific outcomes or embody abstract qualities.
+לישיבות טקטיות רגילות, שמזמנ/ת מזכיר/ת המעגל, כל ממלאי התפקידים במעגל מוזמנים, אלא אם כן יש מדיניות שקובעת אחרת. לכל שאר הישיבות, השותפ/ה שמזמנ/ת את הפגישה אחראי/ת להגדיר אלו תפקידים מוזמנים לפגישה. כל השותפים שמשמשים כמובילי תפקיד לתפקידים אלו מוזמנים לייצג את תפקידם בפגישה, אלא אם כן מזמן הישיבה צמצם את ההזמנה לתפקידים מסויימים. 
 
-As a Partner, you may request a Relational Agreement of another Partner for your own personal preferences or to serve a Role you fill. That Partner may accept or reject the requested Relational Agreement based on their own personal preferences. Unless otherwise agreed, either party may later terminate the Relational Agreement by notifying the other party.
+3.2 מהלך הפגישה
+---------------
 
-As a Partner, you have a duty to align your behavior with any written Relational Agreements you have made. Anyone facilitating a meeting or process for the Organization may also enforce these Relational Agreements during that meeting or process, as long as they don't conflict with anything defined in this Constitution.
+מנחה/ת המעגל אחראי להנחית הישיבות הטקטיות הרגילות של המעגל, והמזכיר/ה אחראי/ה לתעד ולפרסם את תוצרי הפגישה. לישיבות טקטיות שזומנו על ידי מישהו אחר מהמזכיר/ה, השותף המזמן מחויב להנחות ולתעד את הפגישה, או למנות מתנדב או תפקיד אחר לעשות זאת.אלא אם כן מדיניות קובעת אחרת, האדם שמנחה את הפגישה מחויב להשתמש בתהליך הבא:1. **סבב צ'ק-אין**: כל משתתפ/ת בתורו משתף את מצבו הנוכחי או מציע הארה אחרת לפתוח איתה. הסבב ללא תגובות כלל.
 
+2\. **בקרה על משימות שוטפות:** כל משתתפ/ת מוודא השלמה של כל פעולה חזרתית, שהוא מדווח עליה עבור התפקידים שלו בפגישה.
 
-## Article 3: Tactical Meetings
+3\. **מעבר על יעדים:** כל משתתפ/ת מעדכנ/ת על כל מדד שהוא מדווח עליו באופן שוטף בעבור תפקידיו בפגישה.  
 
-Any Partner may convene a ***“Tactical Meeting”*** to assist Partners in engaging each other in their responsibilities and duties. In addition, the Secretary of each Circle is accountable for scheduling regular Tactical Meetings for the Circle.
+4\. **עדכוני התקדמות:** כל משתתפ/ת מעדכנ/ת בנוגע להתקדמות בכל פרויקט או יוזמה אחרת, שהוא מדווח עליהם באופן שוטף בפגישה. משתתפים יכולים לשתף רק בעדכונים מאז הפעם האחרונה שנמסר עדכון ולא בסטאטוס הכללי של כל משימה.  
 
-### 3.1 Attendance
+5\. **בניית סדר יום:** המשתתפים בונים סדר יום לנושאים שאותם ירצו לעבד בפגישה. כל משתתף יכול להוסיף כמה נושאים שיבחר, על ידי מתן כותרת קצרה לכל נושא. הסברים או דיונים אינם מותרים. משתתפים יכולים להוסיף עוד נושאים לסדר יום בין לבין העיבוד של הנושאים שעולים.6. **טיפול בנושאים:** על מנת לעבד כל נושא, מעלה הנושא יכול לבקש בקשות ממשתתף אחר - או על בסיס יכולותיו כשותף, או מתוך אחד התפקידים אותם הוא מייצג בפגישה. אולם, בקשות יכולות לעלות רק בשירות התפקיד שהמבקש מייצג בפגישה עצמה. המנחה מנהל את הזמן שמוקדש לכל נושא ויכול להפסיק את העיבוד של נושא מסוים אם לקח כבר את חלקו בזמן מהפגישה.7. **סבב סיום**: בסיום הפגישה כל משתתף משתף התבוננות אישית על הפגישה. הסבב ללא תגובות כלל.מדיניות של מעגל עשויה להגדיר תהליך אחר או לשנות ברירת מחדל זו לישיבות טקטיות, שמזומנות על ידי כל אחד מהתפקידים.
 
-For regular Tactical Meetings convened by a Circle's Secretary, all of the Circle's Roles are invited unless a Policy says otherwise. For other Tactical Meetings, the Partner convening the meeting must specify the Roles invited to that meeting. All Partners serving as Role Leads of those Roles are then invited to attend and represent those Roles, unless the convener narrows the invitation to include only a subset of Role Leads for a Role.
+מאמר 4: סמכות מבוזרת
+====================
 
-### 3.2 Meeting Process
+כמוביל/ת תפקיד, יש לך הסמכות לפעול או לקבל כל החלטה על מנת לממש את הייעוד של התפקיד שלך או המחויבויות, כל עוד אינך עובר/ת על כללים המוגדרים בחוקה זה.
 
-The Facilitator of a Circle is accountable for facilitating the Circle's regular Tactical Meetings, and its Secretary is accountable for capturing and publishing Tactical Meeting outputs. For Tactical Meetings convened by someone other than a Circle's Secretary, the Partner convening a Tactical Meeting must facilitate it and capture its outputs, or appoint another volunteer or appropriate Role to do so.
+כאשר מתעדפים או בוחרים בין פעולות פוטנציאליות, את/ה יכול/ה להסתמך על שיקול דעתך, ביחס לערך היחסי לארגון.
 
-Unless a Policy says otherwise, the person facilitating the meeting must use the following process:
+4.1 מגבלות על סמכות
+-------------------
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** Each participant verifies completion of any recurring actions that they are regularly reporting on for their Roles in the meeting.
-- **(c) Metrics Review:** Each participant shares any metrics that they are regularly reporting on for their Roles in the meeting.
-- **(d) Progress Updates:** Each participant highlights progress in any Project or other initiative that they are regularly reporting on for their Roles in the meeting. Participants may only share progress made since a prior report, and not the general status of any work.
-- **(e) Build Agenda:** Participants build an agenda of items to process within the meeting. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items after this step, between the processing of any existing agenda items.
-- **(f) Triage Items:** To process each agenda item, the agenda item owner may make requests of another participant, either in that participant's general capacity as a Partner, or to a Role that participant represents in the meeting. However, requests to a Role may only be made in service of a Role the requester represents in the meeting. The person facilitating the meeting manages the time allowed for each agenda item to allow space for the entire agenda, and may cut off processing any item after its due share of meeting time.
-- **(g) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+כמוביל/ת תפקיד, עליך לכבד את המגבלות הללו: 
 
-A Policy of a Circle may specify an alternate process or amend this default process for Tactical Meetings called by any of the Circle's Roles.
+### 4.1.4 אל תפר/י מדיניות
 
+בעת מילוי תפקיד, אסור לך להפר מדיניות של התפקיד עצמו או של כל מעגל המכיל את התפקיד.
 
-## Article 4: Distributed Authority
+### 4.1.2. קבל/י רשות לפני שאת/ה משפיע/ה על תחומי אחריות
 
-As a Role Lead, you have the authority to take any action or make any decision to enact your Role’s Purpose or Accountabilities, as long as you don't break a rule defined in this Constitution. When prioritizing and choosing among your potential actions, you may use your own reasonable judgment of the relative value to the Organization of each.
+בשירות תפקידך, יש לך הסמכות להשפיע ולשלוט על תחומי האחריות שמוגדרים לתפקיד. את/ה גם יכול/ה להשפיע על כל תחום שנמצא באחריות מעגל שמכיל את התפקיד שאתה ממלא, ואשר איננו מואצל הלאה, או כל תחום שהמעגל עצמו עשוי להשפיע עליו. אבל אם את/ה מעריכ/ה שההשפעה שלך תהיה משמעותית, מסובכת או יקרה, עליך לבקש רשות.
 
-### 4.1 Constraints on Authority
+אינך רשאי להפעיל שליטה או לגרום להשפעה מהותית על תחום המואצל לתפקיד או למעגל, שאינו מכיל את התפקיד שלך, אלא אם כן תקבל/י רשות. כמו כן אינך רשאי/ת לעשות זאת בתחום בבעלות ישות ריבונית אחרת ללא רשות.
 
-As a Role Lead, you must honor the following constraints on your authority.
+כאשר את/ה צריך הרשאה להשפיע על תחום, את/ה יכול לקבל אותה ממי שאחראי עליו. את/ה יכול גם לקבל אישור על ידי הכרזה על כוונתך לנקוט פעולה ספציפית, וכן מזמין כל מי שיש לו תחום רלוונטי - להתנגד. לאחר מכן עליך להמתין זמן סביר כדי להתיר תגובות. אם אף אחד לא מתנגד בזמן הזה, אז יש לך הרשאה להשפיע על תחומים כלשהם בבעלות כל תפקיד בארגון אליו הגיעה ההכרזה שלך. אתה יכול להניח שההודעה הכתובה הגיעה לכל מי שבדרך כלל קורא הודעות בערוץ שבו השתמשת.
 
-#### 4.1.1 Don't Violate Policies
+כל הרשאה שניתנת כך חלה רק בעת ביצוע הפעולה הספציפית עליה הודעת. מדיניות עשוי לשנות או להגביל תהליך זה.
 
-While acting in a Role, you may not violate any Policies of the Role itself or of any Circle containing the Role.
+### 4.1.3 קבל אישור לפני שאתה מוציא כסף
 
-#### 4.1.2 Get Permission Before Impacting Domains
+אינך רשאי/ת להוציא כסף או נכסים אחרים, אלא אם כן קיבלת אישור לכך. ההרשאה חייבת להגיע מתפקיד שכבר יש לו שליטה על משאבים אלה למטרת הוצאה. הוצאה תחשב אם ​​אתה נפטר מרכוש משמעותי של הארגון, או מגביל באופן משמעותי כל אחת מזכויותיו.
 
-In service of your Role, you have the authority to impact and control your Role's Domains.
+כדי לקבל אישור להוציא, עליך להודיע ​​על כוונתך זו בכתב לתפקיד שאתה מבקש אישור ממנו. עליך לשתף הודעה זו במקום שבו כל השותפים, שמשמשים כמובילי תפקיד לתפקיד זה או בתוך התפקיד, יראו זאת. ההצהרה שלך חייבת לכלול את הסיבה עבור ההוצאה, והתפקיד שיוזם את ההוצאה. לאחר מכן עליך להמתין זמן סביר כדי לאפשר התייחסות ותגובות. כל נמען של ההודעה שלך עשוי להעלות את הבקשה לשיקול מחדש, ולא תוכל להמשיך עם ההוצאה במקרה זה. עם זאת, מוביל תפקיד של התפקיד שממנו אתה מבקש אישור עשוי לבטל את הבקשה להתייחסות נוספת, וכך גם האדם שהמקורי שהעלה זאת. לאחר שחלף זמן סביר ואין בקשות לשיקול מחדש, התפקיד שלך מקבל שליטה במשאבים אלו. אתה יכול להוציא אותם למטרה המוצהרת שלך, או לאשר לאחרים לעשות זאת. התפקיד שממנו קיבלת את ההרשאה מאבד את השליטה הזו, אולם מוביל תפקיד של התפקיד הזה רשאי לבטל את ההרשאה בכל עת.
 
-You may also impact any Domain held by a Circle containing your Role and not further delegated, or any Domain such a Circle itself may impact. But if you believe your impact will be substantially difficult or expensive to undo, you need to get permission.
+מדיניות עשויה לשנות תהליך זה בכל דרך, או לאשר ישירות לתפקיד לשלוט בהוצאות המשאבים של המעגל.
 
-You may not exert control or cause a material impact on a Domain delegated to a Role or Circle that doesn't contain your Role, unless you get permission. Nor may you do so on a Domain owned by another sovereign entity without permission.
+4.2 הסמכות לפרשנות
+------------------
 
-When you need permission to impact a Domain, you may get it from whomever controls that Domain. You may also get permission by announcing your intent to take a specific action, and inviting anyone with a relevant Domain to object. You must then wait a reasonable time to allow responses. If no one objects in that time, you then have permission to impact any Domains owned by any Role in the Organization that your announcement reached. You may assume a written announcement has reached anyone who typically reads messages in the channel you used. Any permission so granted only applies while taking the specific action you announced. A Policy may change or constrain this process.
+כשותף, אתה יכול להשתמש בשיקול דעתך על מנת לפרש חוקה זו וכל דבר תחת סמכותה. אתה יכול להמשיך ולפרש כיצד אלו חלים בכל סיטואציה ספציפית שאתה נתקל בה, ולפעול על בסיס פרשנויות אלו. אולם, עליך לפרש את כל המשילות בהקשר של הייעוד והמחויבויות של המעגל המכיל אותה, ובתוך כל פרשנות רשמית של המעגל הזה או כל מעגל-על רלוונטי. אינך יכול להשתמש בשום פרשנות שמתנגשת בהקשר או בפרשנות הרשמית
 
-#### 4.1.3 Get Authorization Before Spending Money
+### 4.2.1 ניגודי פרשנות
 
-You may not spend any money or other assets unless you first get authorized to do so. This authorization must come from a Role that already has control of those resources for spending purposes. It counts as spending if you dispose of significant property of the Organization, or significantly limit any of its rights.
+כשותפ/ה, הפרשנות שלך לחוקה זו ולמשילות הארגון עשויה לפעמים מתנגשים עם זו של שותף אחר. כאשר זה קורה, כל אחד מהצדדים רשאי לבקש את המזכיר/ה של כל מעגל מושפע להחליט באיזו פרשנות להשתמש, והמזכיר/ה אחראי/ת על פרשנות החוקה וכל מה שבסמכותה, לפי בקשה. לאחר פסיקת המזכיר/ה, כולם חייבים ליישר קו עם פסיקתו של אותו מזכיר עד לשינוי הטקסט או ההקשר הרלוונטיים.
 
-To get authorized to spend, you must announce your intent to spend in writing to the Role you're seeking authorization from. You must share this announcement where all Partners serving as Role Leads of that Role or within that Role will typically see it. Your statement must include the reason for the spending, and the Role you'll spend from. You must then wait a reasonable time to allow consideration and responses. Any recipient of your announcement may escalate the spending for extra consideration, and you may not proceed with the spending if escalated. However, a Role Lead of the Role you're seeking authorization from may reverse an escalation, as may the person who escalated it. Once a reasonable time has passed and no escalations stand, your Role gains control of those resources. You may spend them for your stated purpose, or further authorize others to. The Role you got this authorization from also loses this control, however a Role Lead of that Role may revoke the authorization at any time.
+לאחר פסיקה על פרשנות, המזכיר/ה רשאי/ת לפרסם את הפסיקה ואת ההיגיון מאחוריה. אם פורסמה, על מזכיר/ת המעגל וכל המעגלים הכלולים לנסות ליישר קו עם הגיון זה בפסיקות עתידיות. אולם, המזכיר/ה יכול/ה עדיין לסתור זאת ברגע שמופיעות נסיבות חדשות משכנעות, שמראות שההגיון ההוא התיישן.
 
-A Policy may change this process in any way, or directly authorize a Role to control spending of the Circle's resources.
+אתה יכול לערער על הפרשנות של המזכיר, למזכיר של כל מעגל-על. מזכיר של מעגל-על יכול להפוך את הפסיקה של כל מזכיר תת-מעגל.
 
-### 4.2 Interpretation Authority
+### 4.2.2 מחיקת משילות לא חוקית
 
-As a Partner, you may use your reasonable judgment to interpret this Constitution and anything under its authority. You may further interpret how these apply within any specific situation you face, and act based on your interpretations. However, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and within any official interpretation rulings of that Circle or any Super-Circle thereof. You may not use any interpretations that conflict with that context or those rulings.
+כל שותפ/ה יכול לבקש ממזכיר מעגל לפסוק בנוגע לחוקיות של כל משילות בתוך המעגל או כל תת-מעגל רלוונטי. אם המזכיר/ה קובע שהיא מפרה את כללי חוקה זו, המזכיר חייב למחוק אותה מרישומי המעגל. לאחר מכן, המזכיר/ה חייב/ת לתקשר במהירות למה הוא/היא מחק/ה אותה לכל השותפים שממלאים תפקידים במעגל זה.
 
-#### 4.2.1 Conflicts of Interpretation
+4.3 יוזמה אישית
+---------------
 
-As a Partner, your interpretation of this Constitution and the Organization's Governance may sometimes conflict with another Partner's. When that happens, either party may ask the Secretary of any affected Circle to rule on which interpretation to use, and the Secretary is accountable for interpreting the Constitution and anything under its authority upon request. After a Secretary responds, everyone must align with that Secretary's ruling until the relevant text or context changes.
+כשותפ/ה, במקרה מסוימים את/ה רשאי/ת לקחת "_**יוזמה אישית**_" ולפעול מעבר לסמכות של התפקידים שלך או על ידי שבירת כללים בחוקה זו.
 
-After ruling on an interpretation, a Secretary may publish the ruling and the logic behind it. If published, the Secretary of that Circle and any contained Circles must attempt to align with that logic in any future rulings. However, a Secretary may still contradict it once a compelling new circumstance renders the logic obsolete.
+### 4.3.1 מקרים מאפשרים
 
-You may appeal a Secretary's interpretation to the Secretary of any Super-Circle. A Super-Circle Secretary may overrule the interpretation of any Sub-Circle Secretary.
+הנך יכול לקחת יוזמה אישית כאשר כל התנאים הללו מתקיימים:
 
-#### 4.2.2 Striking Invalid Governance
+1.  את/ה פועל/ת בתום לב לשרת את הייעוד או לממש את המחויבויות של תפקיד מסוים בתוך הארגון.
+    
+2.  את/ה מאמינ/ה שהפעולה שלך תפתור או תמנע יותר מתח בעבור הארגון מאשר שהיא עשויה ליצור.
+    
+3.  הפעולה שלך לא תחייב את הארגון להוצאה שהיא מעבר למה שאתה מורשה להוציא.
+    
+4.  במקרה שהפעולה שלך תפר מדיניות או תחומים, את/ה מאמינ/ה שהרבה ערך יאבד אם נחכה לאישור או שינוי מדיניות.
+    
 
-Any Partner may ask a Circle's Secretary to rule on the validity of any Governance within that Circle or any Sub-Circle thereof. If the Secretary concludes it violates the rules of this Constitution, the Secretary must strike it from the Circle's records. After doing so, the Secretary must promptly communicate what they struck and why to all Partners filling Roles within that Circle.
+### 4.3.2 תקשורת ושיקום
 
-### 4.3 Individual Initiative
+ברגע שנקטת יוזמה אישית, עליך להסביר את פעולתך לכל מוביל/ת תפקיד שאת/ה חושב/ת שיושפע משמעותית. מרגע הבקשה מכל מוביל/ת תפקיד שכזה, עליך לנקוט בפעולות נוספות לעזור ולפתור כל מתח שנוצר על ידי היזומה האישית שלך. עליך גם להמנע מלנקוט ביוזמה אישית דומה אם נתבקשת על ידי מישהו ממובילי התפקיד.
 
-As a Partner, in some cases you are authorized to take ***“Individual Initiative”*** by acting beyond the authority of your Roles or by breaking rules in this Constitution.
+עליך לתעדף את התקשורת והשיקום הנדרשים על פי חלק זה על פני העבודה הרגילה שלך. אולם, מוביל/ת מעגל של מעגל המכיל את כל התפקידים המושפעים על ידי פעולתך עשוי לשנות את ברירת המחדל הזו.  
 
-#### 4.3.1 Allowed Situations
+מאמר 5: תהליך משילות
+====================
 
-You may only take Individual Initiative when all of the following are true:
+שינוי במשילות של מעגל מצריך הפעלת "_**תהליך המשילות**_" כפי שמתואר כאן.
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization.
-- **(b)** You believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not commit the Organization to any spending beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Policies or Domains, you believe much value would be lost from delaying to get permission or change Governance.
+5.1. משתתפים במשילות
+--------------------
 
-#### 4.3.2 Communication & Restoration
+לכל מעגל יש קבוצה של "_**חברי המעגל**_" שיכולים לייצג את תפקידיו בתהליך משילות.
 
-Upon taking Individual Initiative, you must explain your action to any Role Leads who you believe may be significantly impacted. Upon request of any such Role Lead, you must take further actions to help resolve any Tensions created by your Individual Initiative. You must also refrain from taking similar Individual Initiative upon request of any such Role Lead.
+חברי מעגל של מעגל הם השותפים שממלאים את תפקיד מובילי המעגל, וכמו כן כל שותפ/ה משמש/ת כמוביל תפקיד לתפקיד במעגל. אם לתפקיד יש מספיק מובילי תפקיד, מעגל עשוי לאמץ מדיניות להגביל את המספר שיכול לשמש כחברי מעגל בעבור התפקיד, דרך תהליך המשילות.
 
-You must prioritize the communication and restoration required by this section over your regular work. However, a Circle Lead of a Circle that contains all Roles affected by your action may change this default priority.
+### 5.1.1 נציגי מעגל
 
+כל חבר/ת מעגל של מעגל יכול/ה לבקש בכל עת בחירות על מנת לבחור או להחליף מישהו כ "_**נציג מעגל**_", שמיצג את המעגל במעגל רחב יותר המכיל אותו.
 
-## Article 5: Governance Process
+ הנציג/ה הנבחר/ת ממלא/ת את "_**תפקיד נציג המעגל"**_ במעגל, עם הייעוד ל "עיבוד מתחים הקשורים למעגל רחב יותר והמתועלים החוצה לפתרון", והמחויבויות הבאות:
 
-Changing a Circle's Governance requires using the ***“Governance Process”*** defined herein.
+1.  להבין מתחים שמתוקשרים ע"י מובילי תפקיד בתוך המעגל
+    
+2.  זיהוי המתחים המתאימים לעיבוד בתוך מעגל רחב יותר שמכיל את המעגל
+    
+3.  עיבוד המתחים במעגל הרחב על מנת להסיר מגבלות על המעגל
+    
 
-### 5.1 Governance Participants
+המעגל חייב להשתמש בתהליך הבחירות האינטגרטיבי המוגדר כאן, על מנת לבחור נציג/ת מעגל, אלא אם כן מדיניות מגדירה תהליך אחר. רק חברי מעגל של מעגל רשאים לשמש כנציגי המעגל. כל מי שמשמש כמוביל/ת מעגל לא יכול לשמש כנציג מעגל. בכל רגע ת/יוכל להיות רק נציג/ה אחד/ת למעגל, אלא אם כן, מדיניות של מעגל המכיל את המעגל מאפשרת זאת.
 
-Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
+נציג/ת המעגל הנבחר/ת הופכ/ת לחבר/ת מעגל בכל מעגל המכיל את אותו מעגל, עם הסמכות לייצג את המעגל שלו/ה בדיוק כמו מוביל/ת מעגל. המעגל המכיל עשוי להגביל או למנוע מנציגי המעגל הללו להפוך לחברי המעגל שלו באמצעות מדיניות, אך רק אם יש לתפקידיו דרך נוספת ליהנות מייצוג דומה בתוך אותו מעגל.
 
-A Circle's Circle Members are those Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role in the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+מעגל יכול להוסיף מחויבויות או תחומים לתפקיד נציג/ת המעגל שלו, כמו גם לתקן או להסיר את התוספות הללו. אף מעגל אינו רשאי לשנות או להסיר את ייעוד התפקיד, ואף לא כל מחויבות המוטלת על התפקיד על ידי חוקה זו.
 
-#### 5.1.1 Circle Reps
+### 5.1.2 מנחה ומזכיר/ה
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's ***"Circle Rep"*** to help represent that Circle within any broader Circle containing it. The selected Circle Rep fills a ***"Circle Rep Role"*** in the Circle, with a Purpose of "Tensions relevant to process in a broader Circle channeled out and resolved", and the following Accountabilities:
+מנחה המעגל אחראי להנחות תהליך המשילות של המעגל. מזכיר/ת המעגל אחראי/ת על התיעוד והפרסום של תוצרי תהליך המשילות, ואחראי/ת על התחום של הרישומים והתיעוד.
 
-- **(a)** Seeking to understand Tensions conveyed by Role Leads within the Circle
-- **(b)** Discerning Tensions appropriate to process within a broader Circle that holds the Circle
-- **(c)** Processing Tensions within a broader Circle to remove constraints on the Circle
+כל חבר/ה מעגל במעגל יכול/ה לבקש בחירות בכל רגע לבחור או להחליף מישהו כמנחה או כמזכיר. המעגל חייב להשתמש בתהליך הבחירות האינטגרטיבי המוגדר כאן לבחור מנחה או מזכיר/ה. שום תפקיד או מדיניות יכול לאייש את אחד התפקידים או להסיר את האיוש בכל אמצעי אחר, או לשנות את התהליך הנדרש.
 
-The Circle must use the Integrative Election Process defined herein to select a Circle Rep, unless a Policy defines an alternate process. Only a Circle's Circle Members are eligible to serve as its Circle Rep. Anyone serving as a Circle Lead for the Circle may not also serve as its Circle Rep. No more than one person may serve as a Circle's Circle Rep at a time, unless a Policy of a containing Circle allows it.
+5.2 טווח המשילות
+----------------
 
-The selected Circle Rep becomes a Circle Member of any Circle containing that Circle, with the authority to represent their Circle just like a Circle Lead. A containing Circle may limit or prevent these Circle Reps from becoming its Circle Members via a Policy, but only if its Roles have another way to enjoy comparable representation within that Circle.
+במסגרת "**תהליך משילות"** במעגל, **"חברי המעגל"** יכולים:
 
-A Circle may add Accountabilities or Domains to its own Circle Rep Role, as well as amend or remove those additions. No Circle may amend or remove the Purpose of the Role, nor any Accountabilities placed on the Role by this Constitution.
+1.  להגדיר, לתקן או להסיר את תפקידי המעגל 
+    
+2.  להגדיר, לתקן, או  להסיר מדיניות של המעגל
+    
+3.  להעביר את התפקידים או המדיניות של המעגל עצמו לתוך תת מעגל, או לכל תת מעגל שלו, אך רק אם הם מחוקקים את הייעוד או המחויבויות של אותו תת המעגל
+    
+4.  להעביר תפקידים או מדיניות מתוך תת מעגל או כל תת מעגל שלו אל המעגל, אך רק אם הם אינם רלוונטים עוד למימוש הייעוד או המחויבות של אותו תת מעגל
+    
+5.  לקיים בחירות לכל תפקיד נבחר בתוך המעגל
+    
 
-#### 5.1.2 Facilitator & Secretary
+שום החלטות אחרות אינן תוצאות תקפות של **"תהליך משילות"** של מעגל. 
 
-The Circle's Facilitator is accountable for facilitating its Governance Process. The Circle's Secretary is accountable for capturing and publishing the outputs of its Governance Process, and holds a Domain over the Circle's governance records.
+### 5.2.1 טווח המדיניות 
 
-Any Circle Member of a Circle may request an election at any time to select or replace someone as the Circle's Facilitator or Secretary. The Circle must use the Integrative Election Process defined herein to select a Facilitator or Secretary. No Role or Policy may assign the Facilitator Role or Secretary Role or remove an assignment via any other means, nor change this required process. Normally, the only candidates eligible for this election are a Circle's Circle Members. However, a Policy of the Circle or any Super-Circle may add or limit eligible candidates.
+מדיניות יכולה להיות אחת או יותר מהבאות:
 
-### 5.2 Scope of Governance
+1.  הגבלה על אחד או יותר מהתפקידים הכלולים במעגל
+    
+2.  הענקת סמכות שהמעגל או מוביל/ת המעגל מחזיק בתפקיד אחד או יותר
+    
+3.  הענקת סמכות המאפשרת לאנשים או לתפקידים שאינם מורשים אחרת לשלוט או להשפיע על אחד מתחומי המעגל, או להגביל את האופן שבו הם רשאים לעשות זאת כאשר הם מורשים אחרת
+    
+4.  כלל המשנה כלל או תהליך ברירת מחדל בחוקה זו, אם שינוי זה מותר במפורש
+    
 
-Within a Circle's Governance Process, its Circle Members may:
+מדיניות המעניקה או מגבילה סמכות חלה גם בכל תתי המעגלים וחוזר חלילה, אלא אם צויין אחרת. מדיניות המשנה כלל או תהליך ברירת מחדל בחוקה זו חלה רק בתוך המעגל שמחזיק במדיניות או אם נאמר במפורש, גם בתוך כל מעגלי המשנה, וחוזר חלילה. במקרה האחרון, תת מעגל עדיין רשאי לעקוף את המדיניות הזו באמצעות אחת משלו, אלא אם כן אסור במפורש במדיניות המקורית.
 
-- **(a)** define, amend, or remove the Circle's Roles; and
-- **(b)** define, amend, or remove the Circle's Policies; and
-- **(c)** move the Circle's own Roles or Policies into a Sub-Circle or any Sub-Circle thereof, but only if they enact the Purpose or Accountabilities of that Sub-Circle; and
-- **(d)** move Roles or Policies from within a Sub-Circle or any Sub-Circle thereof out into the Circle, but only if they are no longer relevant to enacting the Purpose or Accountabilities of that Sub-Circle; and
-- **(e)** hold elections for any elected Role within the Circle.
+5.3 שינוי המשילות
+-----------------
 
-No other decisions are valid outputs from a Circle's Governance Process.
+כל חבר/ת מעגל של מעגל יכול/ה להתניע את תהליך המשילות על ידי הצעת שינוי במשילות שלו. על מנת לעשות זאת, "**המציע/ה**" חייב קודם כל לשתף הצעה כתובה עם כל חברי המעגל, באמצעות כל ערוץ תקשורת שמקובל על המזכיר/ה.
 
-#### 5.2.1 Scope of Policy
+שאר חברי המעגל יכולים לאחר מכן לשאול שאלות הבהרה, לשתף תגובות ולהעלות חששות ביחס לאימוץ ההצעה. כל חשש הוא "**התנגדות"** אם עומד התנאים המוגדרים בהמשך, והאדם שהעלה אותה הוא "**המתנגד/ת".**
 
-A Policy may only be one or more of the following:
+ברגע שכל חברי המעגל מאשרים שאין להם התנגדות להצעה, היא מאומצת ומיושמת על ידי משילות המעגל. אם מועלות התנגדויות, המציע/ה והמתנגד/ת חייבים למצוא דרך להתייחס להתנגדויות לפני שהמעגל מאמץ את ההצעה. אחרי כל מאמץ כזה, יש לאפשר לכל חברי המעגל להעלות שוב התנגדויות. מעגל יכול לאמץ מדיניות שתגדיר גבול זמן להעלאת התנגדויות, שלאחריו מי שלא העלה התנגדות נחשב כמי שאין לו התנגדות.
 
-- **(a)** a constraint on the authority of one or more of the Circle's contained Roles; or
-- **(b)** a grant of an authority the Circle or Circle Lead holds to one or more Roles; or
-- **(c)** a grant of authority that allows people or Roles not otherwise authorized to control or impact one of the Circle's Domains, or a constraint on how they may do so when otherwise authorized; or
-- **(d)** a rule that changes a default rule or process in this Constitution, if that change is explicitly allowed.
+בכל רגע, בזמן שהמעגל מעבד הצעה א-סינכרונית, כל חבר/ת מעגל יכול/ה לבקש שהמציע/ה יביא את ההצעה לדיון בזמן אמת בפגישה. אלא אם יש מדיניות קובעת אחרת, התהליך האסינכרוני מפסיק וההצעה מושהית עד לדיון בפגישה.
 
-A Policy that grants or constrains authority applies in all Sub-Circles as well, recursively, unless otherwise stated. A Policy that changes a default rule or process in this Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
+בזמן העלאת הצעות או העלאת התנגדויות, חבר/ת מעגל יכול לייצג רק את התפקידים המעגל שהוא ממלא כ**מוביל תפקיד** או **נציג המעגל**. חבר/ת מעגל יכול/ה גם לייצג תפקיד שיש לו רשות לייצג זמנית מאחד ממובילי התפקיד עד שרשות זו פוקעת או נלקחת.
 
-### 5.3 Changing Governance
+###  5.3.1 תנאים להגשת ההצעה (יש לזכור שמדובר על הגשת הצעות שקשורות למשילות של המעגל - ע.ב.)
 
-Any Circle Member of a Circle may initiate its Governance Process by proposing a change to its Governance. To do so, the ***“Proposer”*** must first share a ***“Proposal”*** in writing with all other Circle Members, using any communication channel allowed by the Secretary. Those other Circle Members may then ask clarifying questions, share reactions, and raise concerns about adopting the Proposal. Each concern is an ***“Objection”*** if it meets the criteria herein, and the person who raised it is the ***“Objector”***.
+על מנת שההצעה תהיה קבילה, על המציע להיות מסוגל ל:
 
-Once each Circle Member confirms they have no Objections to a Proposal, it is adopted and amends the Circle's Governance. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle adopts the Proposal. After any such effort, all Circle Members must be given another opportunity to raise Objections. A Circle may adopt a Policy to define a time limit for raising Objections, after which anyone who has not responded is assumed to have no Objections. At any point while the Circle is processing a Proposal asynchronously, any Circle Member may request the Proposer bring the Proposal to a meeting for real-time processing instead. Unless a Policy says otherwise, the asynchronous processing then stops and the Proposal is considered withdrawn until re-proposed at a meeting.
+1.  לתאר _**מתח**_ שההצעה תטפל בו עבור אחד מהתפקידים של המציע; ו -
+    
+2.  לספר על מקרה אמיתי בעבר או בהווה שמדגים את המתח הזה; ו -
+    
+3.  לתת דוגמה הגיונית איך ההצעה תוריד את המתח שבדוגמה.
+    
 
-When making Proposals or raising Objections, a Circle Member may only represent the Roles in the Circle that they either fill as Role Lead or represent as Circle Rep. A Circle Member may also represent a Role that they have permission to temporarily represent from one of its Role Leads, until that permission expires or is withdrawn.
+בכל רגע אם למנחה יש בהירות שההצעה אינה עומדת בתנאים הללו הוא/היא יכול/ה לגנוז את ההצעה.
 
-#### 5.3.1 Proposal Requirements
+###  5.3.2 תנאים להתנגדות
 
-For a Proposal to be valid, the Proposer must be able to:
+חשש לגבי אימוץ הצעה יחשב כהתנגדות אם המתנגד יכול לספק טיעון הגיוני, שעולה על כל הקריטריונים הללו:
 
-- **(a)** describe a Tension that the Proposal would address for one of the Proposer's Roles; and
-- **(b)** share an example of an actual past or present situation illustrating that Tension; and
-- **(c)** give a reasonable explanation of how the Proposal would have reduced the Tension in that example.
+1.  ההצעה תוריד מהמסוגלות של המעגל לממש את הייעוד או המחויבויות שלו.
+    
+2.  ההצעה תגביל את יכולתו של המתנגד/ת לממש את יעודו או המחויבויות של תפקיד שהמתנגד/ת מייצג/ת במעגל, אפילו אם המתנגד/ת לא ממלא שום תפקיד נוסף בארגון.
+    
+3.  החשש לא התקיים עוד קודם לכן, גם לולא הוצעה ההצעה. וכך, מתח חדש יווצר בעת אימוץ ההצעה.
+    
+4.   ההצעה בהכרח תגרום לנזק או היא עשויה לגרום לנזק לפני שלמעגל תהיה את ההזדמנות להסתגל ולמנוע את הנזק.
+    
 
-If at any point it becomes clear to the Facilitator that a Proposal does not meet these criteria, the Facilitator must discard the Proposal.
+ובנוסף, למרות כל הנאמר מעלה, חשש תמיד יחשב כהתנגדות אם ההצעה סותרת את אחד החוקים בחוקה זו.
 
-#### 5.3.2 Objection Requirements
+###  5.3.3 בחינת התנגדויות 
 
-A concern about adopting a Proposal only counts as an Objection if the Objector can provide a reasonable argument for why it meets **all** of the following criteria:
+המנחה יכול/ה לבדוק האם חשש הוא התנגדות על ידי כך שישאל את המתנגד אם החשש עונה על הקריטריונים. בעת בחינת התשובות, המנחה יכול/ה לשפוט האם המתנגד/ת הציג/ה טיעונים לכל קריטריון באמצעות הסברים לוגיים. המנחה לא יכול לשפוט על בסיס הדיוק של כל טיעון או החשיבות של ההתייחסות אליו.
 
-- **(a)** The Proposal would reduce the capacity of the Circle to enact its Purpose or Accountabilities.
-- **(b)** The Proposal would limit the Objector's capacity to enact the Purpose or an Accountability of a Role the Objector represents in the Circle, even if the Objector filled no other Roles in the Organization.
-- **(c)** The concern does not already exist even in the absence of the Proposal. Thus, a new Tension would be created specifically by adopting the Proposal.
-- **(d)** The Proposal would necessarily cause the impact, or, if it might cause the impact, the Circle wouldn't have an adequate opportunity to adapt before significant harm could result.
+כאשר נטענת התנגדות עקב כך שאימוץ ההצעה יפר את החוקה, המנחה יכול/ה לבקש ממזכיר/ת המעגל לפרש האם זה נכון. אם המזכיר/ה החליט/ה שזה לא כך, המנחה חייב/ת לדחות את ההתנגדות.
 
-However, regardless of the above criteria, a concern always counts as an Objection if adopting the Proposal would violate a rule in this Constitution.
+### 5.3.4 כללים לאינטגרציה 
 
-#### 5.3.3 Testing Potential Objections
+כאשר מנסים לפתור התנגדות, הכללים הבאים חלים:
 
-The Facilitator may test whether a concern counts as an Objection by asking the Objector if the concern meets the required criteria, and how. When assessing responses, the Facilitator may only judge whether the Objector presented arguments for each criteria using logical reasoning. The Facilitator may not judge on the basis of an argument’s accuracy or the importance of addressing it.
+1.  המנחה חייב לבדוק התנגדות אם התבקש כך על חבר/ת מהמעגל. אם ההתנגדות לא עונה על הקריטריונים, המנחה חייב/ת לפסול אותה.
+    
+2.  המתנגד/ת חייב למצוא תיקון להצעה שתפתור את ההתנגדות ועדיין תתייחס למתח של מציע ההצעה. אם המנחה סבור שהמתנגד אינו מנסה בתום לב, המנחה חייב לקבוע שההתנגדות ננטשת ולבטלה.
+    
+3.  כל חבר/ת מעגל יכול לשאול את המציע/ה שאלות הבהרה לגבי המתח שמאחורי ההצעה, או לגבי הדוגמאות שהמציע/ה נתן להמחיש את ההצעה. אם המנחה סבור שהמציע/ה לא עונה בתום לב המנחה חייב לקבוע שההצעה בטלה. 
+    
+4.  המתנגד/ת יכול להציע הצעה מתוקנת, ולהציע טיעונים הגיוניים למה ההצעה הזו תפתור את המתח. אז, לבקשת המתנגד/ת, המציע/ת חייב להציג טיעון הגיוני למה ההצעה המתוקנת לא פותרת את המתח לפחות באחת מהדוגמאות שהמציע/ה נתנ/ה לתאר את המתח. אם המנחה סבור שהמציע/ה לא יכול/ה או לא רוצה לעשות זאת, הוא/היא חייב/ת לקבוע שההצעה בטלה.
+    
 
-When an Objection is claimed because adopting a Proposal would violate this Constitution, the Facilitator may ask the Circle’s Secretary to interpret if that's true. If the Secretary rules that it is not, the Facilitator must then dismiss the Objection.
+### 5.3.5 תהליך הבחירות האינטגרטיבי
 
-#### 5.3.4 Rules of Integration
+כל חבר/ת מעגל יכול/ה להפעיל את תהליך המשילות של המעגל על ידי קריאה לבחירות לנצי/תג המעגל, המנחה או המזכיר/ה. המנחה בפועל מחויב להפעיל את _**תהליך הבחירות האינטגרטיבי**_ כדלקמן:1. **תיאור התפקיד**: ראשית, המנחה יזהה את תפקיד היעד ויבחר את המינוח לבחירות. המנחה יכול גם להציג מידע נוסף שקשור לבחירות. במהלך שלב זה והבא אחריו - אין להגיב על על מועמד/ת פוטנציאלי כזה או אחר.
 
-While attempting to resolve an Objection, the following rules apply:
+2\. **העמדת מועמדים**: כל חבר/ת מעגל ישתמש בהצבעה או כל אפשרות פרטית אחרת על מנת להציע את המועמד.ת הכי מתאים מבחינתו לתפקיד. חברי המעגל חייבים לזהות את עצמם בכרטיס ההצבעה ביחד עם שמו של המועמד אותו הם מציעים. אין אפשרות להמנע או להציע מספר מועמדים לתפקיד.
 
-- **(a)** The Facilitator must test an Objection if requested by any Circle Member. If it fails to meet the required criteria, the Facilitator must discard it.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. If the Facilitator believes the Objector is not making a good faith attempt to do so, the Facilitator must deem the Objection abandoned and drop it.
-- **(c)** Any Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator believes the Proposer is not answering them in good faith, the Facilitator must deem the Proposal dropped.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve the Tension in at least one of the examples the Proposer used to illustrate the Tension. If needed, the Proposer may add another example to illustrate why the amended Proposal would fail to resolve the Tension. If the Facilitator believes the Proposer is unable or unwilling to do so, the Facilitator must deem the Proposal dropped.
+3\. **סבב שיתוף המועמדים:** בשלב הזה המנחה משתף את כלל המועמדים לתפקיד עם המעגל. בעבור כל אחד, המציע משתף את המעגל מדוע הוא או היא יהיו הכי מתאימים לתפקיד, ואין תגובות. המציעים גם לא יכולים להגיב על מועמדים אחרים מלבד אלו שהציעו.
 
-#### 5.3.5 Integrative Election Process
+4\. **סבב שינוי המועמדים**: ברגע שכל המועמדויות שותפו, כל חבר/ת מעגל יכול לשנות את המועמדות שהציע ולהסביר את הסיבה לשינוי. אין אפשרות לתגובות.
 
-Any Circle Member may also initiate the Circle's Governance Process by calling for an election for a Circle Rep, Facilitator, or Secretary. The acting Facilitator must then enact the ***“Integrative Election Process”*** as follows:
+5\. **גיבוש הצעה:** המנחה סופר את המועמדויות ומציע הצעה למועמד/ת עם הכי הרבה קולות. אם יש תיקו, המנחה יכול לעשות אחד מהבאים:
 
-- **(a) Describe Role:** First, the Facilitator identifies the target Role and chooses a term for the election. The Facilitator may also present other information relevant to the election. During this step and the next, no one may comment on any potential candidates.
-- **(b) Nominate Candidates:** Each Circle Member uses a ballot or another private forum to name the eligible candidate whom the Circle Member believes is the best fit for the Role. Circle Members must label their ballot with their own name as well, and no one may abstain or nominate multiple people.
-- **(c) Nomination Sharing Round:** During this step, the Facilitator shares each nomination with all Circle Members. For each one, the nominator states why he or she believes their nominee would be a good fit for the Role, and no one else responds. The nominator may not comment on other potential candidates beyond their nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, any Circle Member may change their nomination and explain the reason for the change. No responses are allowed.
-- **(e) Make a Proposal:** The Facilitator counts the nominations, and makes a Proposal to elect the candidate with the most. If there is a tie, the Facilitator may do any one of the following: (i) if only one of the tied candidates has nominated himself or herself, propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) blindly select one of the tied candidates randomly, and propose that person; or (iv) go back to the previous step and ask each Circle Member who nominated someone other than a tied candidate to change that nomination to one of the tied candidates.
-- **(f) Objection Round:** The Facilitator asks each Circle Member if they see any Objections to the Proposal. If any Objections surface, the Facilitator may either allow discussion to attempt to resolve them, or discard the Proposal. If discarded, the Facilitator must then go back to the prior step in this process, ignore all nominations for the discarded candidate, and apply the rules of the prior step to select another candidate to propose instead.
+א. אם רק אחד מהמועמדים בתיקו הציע את עצמו/ה - להציע אותו/ה.
 
-A Circle may adopt a Policy to define a time limit for nominating a candidate or responding to a Proposal during the Integrative Election Process. After that time limit is reached, the Facilitator must exclude anyone who has not responded from the remainder of the process.
+ב. אם האדם שכרגע ממלא את התפקיד נמצא בתיקו - להציע אותו/ה.
 
-The Facilitator of a Circle is accountable for triggering new elections for the Circle's elected Roles after each election term expires.
+ג. לבחור באופן רנדומלי את אחד המועדמים ולהציע אותו/ה.
 
-#### 5.3.6 Surrogates for Facilitator & Secretary
+ד. לחזור שלב אחד אחורה ולבקש ממי שלא בחר במועמדים שבתיקו - לבחור באחד/ת מהם.
 
-A surrogate may act as Facilitator or Secretary while the Role is unfilled. A surrogate may also fill in when the normal Facilitator or Secretary is unavailable when needed, or requests a surrogate for any reason.
+6\. **שלב ההתנגדות**: המנחה שואל/ת את כלל החברים במעגל האם למישהו יש התנגדות להצעה. אם עולות התנגדויות, המנחה יכול/ה לאפשר דיון על מנת להביא לפתרון או לבטל את ההצעה. אם ההצעה בוטלה, המנחה חייב לחזור חזרה לשלב המועמדות, להתעלם לחלוטין מכל המועמדויות של המועמד שמועמדותו בוטלה, וליישם את הכללים של השלב הקודם על מנת להציע מועמדות של מועמד אחר. 
 
-Whenever a surrogate is needed, the surrogate is, in this order of precedence:
+מעגל יכול לאמץ מדיניות שמגבילה את זמן הדיון על על תהליך מועמדות, או על התייחסות להצעה בזמן תהליך הבחירות האינטגרטיבי. כאשר הזמן פקע, המנחה מחויב/ת להשאיר בחוץ כל מי שלא הגיב/ה בזמן לשאר התהליך.
 
-- **(a)** someone specified by the person to be replaced; or
-- **(b)** for Facilitator, the acting Secretary of the Circle, and for Secretary, the acting Facilitator of the Circle; or
-- **(c)** the Circle Lead of the Circle, or, if there are multiple Circle Leads, the first one to declare themselves acting as surrogate; or
-- **(d)** the first Circle Member to declare themselves acting as surrogate.
+המנחה של מעגל אחראי/ת ליזום תהליך בחירות חדש בתום קדנציה.
 
-### 5.4 Governance Meetings
+ 5.3.6 ממלאי מקום לתפקיד המנחה והמזכיר
 
-In addition to processing Proposals made asynchronously outside of meetings, each Circle will also hold regular ***"Governance Meetings"*** to enact the Circle’s Governance Process in real time.
+ממלא מקום עשוי לתפקד כמנחה או מזכיר/ה בזמן שהתפקיד אינו מאויש. ממלא מקום יכול גם למלא את התפקיד כאשר ממלא התפקיד הנוכחי אינו זמין או מבקש החלפה מכל סיבה שהיא.
 
-The Circle's Secretary is accountable for scheduling its Governance Meetings. In addition to any regularly-scheduled Governance Meetings of the Circle, the Secretary must schedule special Governance Meetings promptly upon request of any Circle Member. The requester may further specify an intention for a special Governance Meeting and any limits on what the meeting may change. This may include focusing the meeting on a specific Tension, or limiting it to only modifying certain Roles. In that case, the authority of that special Governance Meeting is constrained to only processing Proposals for the stated intent, and only making changes within the stated limits.
+כאשר ממלא מקום נדרש, הוא יהיה על בסיס בסדר הזה:
 
-#### 5.4.1 Attendance
+1.  מי שנתבקש על ידי ממלא/ת התפקיד שביקש את ההחלפה
+    
+2.  לתפקיד המנחה - המזכיר/ה בפועל של המעגל, ולתפקיד המזכיר/ה - המנחה בפועל של המעגל.
+    
+3.  מוביל/ת המעגל של המעגל, או אם יש מספר מובילים אז הראשונ/ה שיכריז על עצמו כממלא מקום; או
+    
+4.  חבר המעגל הראשון שיכריז על עצמו כממלא מקום.
+    
 
-All Circle Members of a Circle may participate in its Governance Meetings. The acting Facilitator and Secretary may also participate even if they are not Circle Members of the Circle. In that case, they become temporary Circle Members for the duration of the meeting.
+5.4. ישיבת משילות
+-----------------
 
-As a Circle Rep for a Circle, you may invite any Partner to join the Governance Meeting of any Circle immediately containing your Circle. You may only extend this invitation to one Partner at a time, and only to aid in the processing of a specific Tension affecting the Circle you represent. You must sense this Tension yourself as well, and believe it makes sense to process in the Circle. Your invited guest becomes a temporary Circle Member for the duration of the meeting, or until you withdraw the invitation. Your guest may represent your Circle along with you in the meeting, but only while processing that specific Tension.
+בנוסף לעיבוד הצעה שהועלו א-סינכרונית מחוץ לפגישות, כל מעגל גם יקיים "_**ישיבות משילות**_" מן המניין על מנת לנהל את משילות המעגל בזמן אמת.
 
-Beyond the above, no one else may participate in a Circle’s Governance Meetings.
+מזכיר/ת המעגל אחראי/ת על תיאום ישיבות המשילות. בנוסף על ישיבות המשילות הרגילות, על המזכיר/ה לתאם במהירות, לבקשתו של כל חבר/ה מעגל. המבקש עשוי לספק הסבר נוסף על כוונת הפגישה ועל גבולות של השינויים שעשויים לצאת מהפגישה. זה עשוי לכלול מיקוד הפגישה על מתח מסוים, או להגביל אותה להתמקד בשינוי תפקידים מסויימים. במקרה זה, סמכות הישיבה המיוחדת מוגבלת לעיבוד הצעות לכוונה המוצהרת ולשינויים רק במסגרת המגבלות המוצהרות.
 
-#### 5.4.2 Notice & Duration
+### 5.4.1 נוכחות
 
-A Circle may only conduct a Governance Meeting if the Secretary gave all Circle Members reasonable advance notice of the meeting. Beyond that, there is no quorum required for a Circle to conduct a Governance Meeting, unless a Policy specifies one.
+כל חברי המעגל של מעגל יכולים להשתתף בישיבות המשילות. המנחה והמזכיר/ה בפועל יכולים גם להשתתף גם  אם הם לא חברי המעגל. במקרה כזה הם נחשבים חברים במעגל למהלך הפגישה. כנציג המעגל למעגל, את/ה יכול/ה להזמין כל שותפ/ה להשתתף בישיבת המשילות של כל מעגל מיידי המכיל את המעגל שלך. את/ה יכול להזמין בכל פעם שותף/ה אחד בלבד, ורק על מנת לסייע בעיבוד של מתח ספציפי המשפיע על המעגל אותו אתה מייצג. האורח/ת הופך לחבר זמני של המעגל לזמן הפגישה או עד שאת/ה מבטל/ת את ההזמנה. האורח/ת יכול לייצג את המעגל שלך יחד איתך בזמן הפגישה, אבל רק בזמן שמעבדים את המתח הספציפי. 
 
-Governance Meetings end once they reach the duration initially scheduled by the Secretary. The Secretary may choose to extend the duration within the meeting, but only if no Circle Member requests otherwise.
+מעבר לאמור לעיל, אף אחד אחר לא יכול להשתתף בישיבת המשילות של מעגל.
 
-Any Circle Member who misses part or all of a Governance Meeting counts as having had a chance to raise concerns about any Proposals made therein. Thus, a Circle may adopt Proposals in a Governance Meeting without regard for absent members.
+### 5.4.2. התראה ומשך
 
-#### 5.4.3 Meeting Process
+מעגל יכול לכנס ישיבת משילות רק אם המזכיר/ה נתנ/ה לכל חברי המעגל התראה מספקת וסבירה מראש. מעבר לזה, אין מניין הדרוש למעגל על מנת לערוך ישיבת משילות, אלא אם כן מדיניות מגדירה אחרת.
 
-The Facilitator must use the following process for Governance Meetings:
+ישיבות משילות מסתיימות כאשר מגיע הזמן שנקבע לכך על ידי המזכיר/ה. המזכיר/ה יכול/ה לבחור להאריך את משך הפגישה, אבל רק אם אין חבר/ת מעגל שמבקש/ת אחרת.
 
-- **(a) Check-in Round:** Each participant in turn shares their current state, or offers another opening comment for the meeting. Responses are not allowed.
-- **(b) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(c) Closing Round:** Each participant in turn shares a closing reflection on the meeting. Responses are not allowed.
+כל חבר/ת מעגל שמפספס חלק או את כל ישיבת המשילות נחשב כאילו הייתה לו הזכות להשמיע חששות ביחס להצעות שהועלו. ולכן, מעגל יכול לקבל הצעות בישיבת משילות ללא התחשבות בחברים חסרים.
 
-At any point during this process, a participant may request a ***“Time Out”*** pause. The Facilitator may choose to grant or deny this request. During the Time Out, participants may discuss administrative issues or the rules of this Constitution. They may not use the Time Out to work towards the resolution of a Tension, Proposal, or Objection. The Facilitator may end a Time Out at any point and resume the normal meeting process.
+### 5.4.3 מהלך הישיבה
 
-A Policy of the Circle may add to this process, but may not conflict with any rules or requirements defined in this Article.
+המנחה חייב להשתמש בתהליך הנ"ל לקיום הישיבה:
 
-#### 5.4.4 Agenda Building
+1.  **סבב צ'קאין** - כל משתתפ/ת בתורה משתפ/ת במצבו/ה הנוכחי, או מציע הארת פתיחה אחרת לפגישה. אין תגובות.
+    
+2.  **בניית סדר היום לפגישה ועיבוד:** המנחה אוספ/ת רשימת מתחים לעיבוד ואז מעבד/ת אותם לפי הסדר.
+    
+3.  **סבב סגירה:** כל משתתפ/ת בתורו/ה משתפ/ת הארת סגירה לסיום. ללא תגובות.
+    
 
-The Facilitator builds an agenda of Tensions to process by soliciting agenda items from all participants. The Facilitator must do this in the meeting and not beforehand. Each participant may add as many agenda items as desired by providing a short label for each, with no explanation or discussion allowed. Participants may add more agenda items during the meeting, between the processing of any existing agenda items.
+בכל רגע בתהליך זה, משתתף/ת יכול לבקש "פסק זמן". המנחה יכול/ה לאשר או לדחות את הבקשה. בזמן פסק הזמן, המשתתפים יכולים לדבר על נושאים אדמיניסטרטיביים, או על כללי החוקה הזו. הם לא יכולים להשתמש בפסק הזמן הזה על מנת לדון במתח, הצעה או התנגדות. המנחה יכול/ה לסיים את פסק הזמן בכל רגע ולהמשיך את המהלך הרגיל של הפגישה.
 
-For a regular Governance Meeting, the Facilitator may choose the order in which to process agenda items. However, on request of a meeting participant, any agenda item calling for an election must go before all others. For a special Governance Meeting scheduled on request of a participant, that participant may choose the agenda order.
+מדיניות של מעגל יכולה להוסיף לתהליך זה, אך לא להתנגש עם כללים או דרישות המוגדרים במאמר זה.
 
-Agenda items are processed one at a time. To process a request for an election, the Facilitator uses the Integrative Election Process. To process anything else, the Facilitator uses the Integrative Decision-Making Process defined below.
+### 5.4.4 מהלך הישיבה
 
-#### 5.4.5 Integrative Decision-Making Process
+המנחה בונה את סדר היום של מתחים לעיבוד על ידי איסוף נושאים מכל המשתתפים. המנחה חייב/ת לעשות זאת במהלך הפגישה ולא לפניה. כל משתתפ/ת יכול/ה להוסיף נושאים לסדר יום ככל שת/ירצה, על ידי כך שת/יתן תווית לכל אחד מהם, כאשר הסברים או דיונים אינם מותרים. משתתפים יכולים להוסיף נושאים לסדר היום בין לבין עיבוד הנושאים שעולים.
 
-The Facilitator must enact the ***“Integrative Decision-Making Process”*** as follows:
+לישיבת משילות רגילה, המנחה יכול לבחור את הסדר שבו הנושאים יועלו. אולם לבקשתו של אחד המשתתפים, נושא שיש בו תהליך בחירות חייב להיות ראשון. לישיבת משילות מיוחדת לבקשתו של משתתפ/ת, המשתתפ/ת רשאי לקבוע את סדר הנושאים.
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address it. On the Proposer's request, the Facilitator may allow others to help craft a Proposal. However, the Facilitator must focus this help solely on getting to an initial Proposal to address the Proposer's Tension. The Facilitator must disallow discussing other Tensions or concerns about the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, others may ask questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must stop any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Participants may also ask the Secretary to read the Proposal or show any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Next, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop any out-of-turn comments, any attempts to engage others in a dialog, and any reactions to other reactions instead of to the Proposal.
-- **(d) Option to Clarify:** Next, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. The Facilitator must immediately stop comments by anyone other than the Proposer or Secretary. Any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise concerns about adopting the Proposal. The Facilitator must either capture these concerns as Objections, or test them to see if they meet the Objection criteria and capture any that do. If there are no Objections, the Proposal is adopted. While testing concerns and capturing Objections, the Facilitator must stop and disallow discussion or responses of any kind from anyone other than the Objector.
-- **(f) Integration:** If there are Objections, the Facilitator then focuses on each one, one at a time. For each, the participants brainstorm to find a potential amendment to the Proposal to resolve the Objection. The Facilitator marks an Objection resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that it still addresses the Tension. During this step, the Facilitator must apply the rules of integration described in this Article. Once all Objections are resolved, the Facilitator moves back to the Objection round with the amended Proposal.
+נושאים לסדר יום מעובדים אחד בכל פעם. כדי לעבד בקשה לבחירות, המנחה ת/ישתמש בתהליך הבחירות האינטגרטיבי. כדי לעבד כל דבר אחר, המנחה ת/ישתמש ב_**תהליך קבלת ההחלטות האינטגרטיבי**_.
 
-### 5.5 Process Breakdown
+### 5.4.5 תהליך קבלת החלטות אינטגרטיבי
 
-A ***“Process Breakdown”*** occurs when a Circle shows a pattern of behavior or output that violates the rules of this Constitution. The Facilitator or Secretary of a Circle may declare a Process Breakdown in their own Circle or any Sub-Circle, using their reasonable judgment. Any concerned Partner may further request a Facilitator review a Sub-Circle to look for a potential Process Breakdown, and the Facilitator is accountable for auditing a Sub-Circle's meetings and records on request and declaring a Process Breakdown if one is discovered.
+המנחה חייב/ת להפעיל את "_**תהליך קבלת ההחלטות האינטגרטיבי**_", כלדקמן:
 
-#### 5.5.1 Breakdown from Failed Governance
+1.  **הצגת הצעה:** ראשית המציע/ה חייב/ת להציג את המתח ואת ההצעה לפתור אותו. לבקשתו של המציע/ה, המנחה יכול/ה לאפשר לאחרים לסייע ביצירת ההצעה. אולם, המנחה חייב/ת למקד את העזרה הזו רק ביצירת הצעה ראשונית שתאפשר להתייחס למתח של המציע/ה. המנחה חייב/ת לקבוע שיחות על מתחים אחרים או חששות ביחס להצעה.
+    
+2.  **שאלות הבהרה:**  ברגע שהמציע/ה מציג/ה הצעה, אחרים יכולים לשאול אותו/ה שאלות על מנת להבין טוב יותר את ההצעה או את המתח שמאחוריה. המציע יכול לענות על כל שאלה או עשוי לסרב לענות. המנחה חייב/ת לעצור כל תגובה או הבעת דיעה ביחס להצעה, ולמנוע דיון מכל סוג שהוא. משתתפים עשויים לבקש מהמזכיר/ה לקרוא את ההצעה או להראות את המשילות הקיימת בשלב זה או בכל זמן אחר שבו המשתתפים יכולים לדבר והמזכיר/ה חייב לעשות זאת.
+    
+3.  **שלב התגובות:** לאחר מכן, כל משתתפ/ת חוץ מהמציע/ה יכול לשתף תגובות ביחס להצעה, כל אחד בתורו/ה. המנחה חייב לעצור מיידית התייחסויות שלא בתור, כל נסיון להתחיל שיח עם אחרים, או כל תגובה לתגובות אחרות שאינן מתייחסות להצעה.
+    
+4.  **הזדמנות להבהרה:**  לאחר מכן, המציע/ה יכול לשתף הערות ביחס לתגובות ולהציע שינויים להצעה. אולם, המטרה המרכזית של השינויים אמורה להיות לפתור בצורה טובה יותר את המתח של המציע/ה ולא את שאר המתחים שהועלו ע"י האחרים. המנחה חייב לעצור מייד כל תגובה שלא מצד המציע/ה או המזכיר/ה. כל תגובה מצד המזכיר/ה חייבת להיות ממוקדת על תיעוד ההצעה המתוקנת. 
+    
+5.  **שלב התנגדויות:**  לאחר מכן, כל משתתפ/ת בתורו, עשוי להעלות חששות בנוגע לאימוץ ההצעה. המנחה חייב לאסוף חששות ולבחון אותן כהתנגדויות ולתעד אותן ככאלו אם הן קבילות. אם אין התנגדויות, ההצעה מתקבלת. בזמן בחינת החששות ותיעוד ההתנגדויות המנחה חייב לעצור כל התייחסות או תגובה מצד מישהו שאיננו המתנגד/ת.
+    
+6.  **אינטגרציה**: אם יש התנגדויות, המנחה חייב/ת להתמקד בכל אחת בנפרד לפי הסדר. לכל אחת, המשתתפים עורכים סיעור מוחות על מנת למצוא תיקון להצעה שיפתור את ההתנגדות. המנחה מסמנ/ת התנגדות כפתורה ברגע שהמתנגד/ת מאשר/ת שההצעה המתוקנת לא תפעיל את ההתנגדות, והמציע/ה מאשר/ת שהיא עדיין פותרת את המתח. בשלב זה המנחה חייב/ת ליישם את כללי האינטגרציה המפורטים במאמר זה. ברגע שכל ההתנגדויות פתורות, המנחה חוזר/ת לשלב ההתנגדויות עם ההצעה המתוקנת.
+    
 
-A Circle's Facilitator may also declare a Process Breakdown in the Circle if a Proposal fails to reach a resolution after those involved spend a reasonable amount of time and effort seeking resolution.
+### 5.5. התפרקות התהליך
 
-#### 5.5.2 Process Restoration
+"_**התפרקות התהליך**__"_  מתרחשת כאשר מעגל מראה דפוס התנהגות או תוצר שמפר את הכללים בחוקה זו. המנחה או המזכיר/ה של מעגל יכולים להכריז על התפרקות התהליך במעגל שלהם או בכל תת מעגל, בהתאם לשיקול דעתם הסביר.
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+כל שותפ/ה מודאג/ת יכול לבקש בדיקה של מנחה לתת מעגל על מנת לאבחן התפרקות תהליך, והמנחה מחויב לבקר את הפגישות של תת המעגל והתיעודים ולהכריז על התפרקות תהליך אם נמצא שיש כזו.
 
-- **(a)** the Facilitator gains the authority to judge the logic and relevance of any arguments made to validate Proposals or Objections in the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(c)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle; and
-- **(d)** the Facilitator of the Super-Circle may assign an additional Circle Lead to the Circle for the duration of the Process Breakdown. Any decisions that person makes as Circle Lead supersede and prevent any conflicting decisions by another Circle Lead.
+### 5.5.1 התפרקות כתוצאה ממשילות כושלת 
 
-These authorities end as soon as due process is restored in the Circle, as assessed by the Facilitator of the Super-Circle.
+מנחה של מעגל יכול/ה להכריז על התפרקות תהליך אם הצעה לא מצליחה להגיע לפתרון אחרי שהמעורבים מבלים פרק זמן ומאמץ מספקים על מנת להגיע לפתרון. 
 
-If the Circle in Process Breakdown has no Super-Circle, then the powers above all vest with its own Facilitator instead.
+### 5.5.2 שחזור התהליך
 
-#### 5.5.3 Escalation of Process Breakdown
+כאשר צד מוסמך מכריז על התפרקות תהליך במעגל, הבא לעיל מתרחש:
 
-A Process Breakdown in one Circle is not automatically considered a Process Breakdown of its Super-Circle. However, if it remains unresolved for an unreasonable time, then the Super-Circle is also considered in a Process Breakdown.
+1.  המנחה מקבל/ת סמכות לשפוט את ההגיון והרלוונטיות של כל טיעון על מנת לוודא הצעות או התנגדויות במעגל; ו-
+    
+2.  המנחה של מעגל העל מקבל פרויקט לשחזר את התהליך התקין של המעגל; ו-
+    
+3.  המנחה של מעגל העל מקבל את הסמכות להיות המנחה או המזכיר/ה של המעגל; ו- 
+    
+4.  המנחה של מעגל העל יכול למנות מוביל מעגל נוסף למעגל לתקופת התפרקות התהליך. כל החלטה שמוביל מעגל זה עושה חזקה יותר מכל החלטות אחרות בקונפליקט שנעשו ע"י מובילי מעגל אחרים.
+    
 
----
+הסמכות בטלה כאשר שוחזר תהליך תקין במעגל, שוודא ע"י המנחה של מעגל העל.
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+אם למעגל בהתפרקות תהליך אין מעגל על, אזי כל הסמכויות המצוינות לעיל מועברות למנחה המעגל במקום.
 
----
+### 5.5.3 הסלמה של תהליך התפרקות
+
+תהליך התפרקות במעגל אחד לא נחשב אוטומטית כתהליך התפרקות לכל מעגל העל שלו. אולם, אם המצב נשאר כך לפרק זמן לא סביר, אז מעגל העל גם נחשב בתהליך התפרקות. 
+
+**עבודה זו ניתנת ברשיון תחת Creative Commons Attribution-ShareAlike 4.0 International License**.
+
+תרגום לעברית: ענבר ברמלר, הטריבונה למנהיגות השתתפותית.
